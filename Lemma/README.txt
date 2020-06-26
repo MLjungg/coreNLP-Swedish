@@ -8,4 +8,6 @@ This first version is fundamentally built using a {word, lemma} dictionary. The 
 
 https://github.com/UniversalDependencies/UD_Swedish-Talbanken
 
+While the dataset used in the annotator can be viewed in the file "lemmaFile.txt".
+
 In a future version, it can be valuable to consider the part of speech tag to improve the annotator. 
