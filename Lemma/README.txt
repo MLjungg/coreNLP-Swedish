@@ -1,4 +1,4 @@
-# Lemma Annotator
+#Lemma Annotator
 
 This is a custom Lemma annotator - It maps words to its lemma form in Swedish:
 
