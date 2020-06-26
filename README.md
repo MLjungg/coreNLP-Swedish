@@ -10,4 +10,4 @@ For now, a first version of the following annotators have been created:
 
 Regarding Tokenization (tok) and wordToSentence (ssplit), it is suitable to use the english models. Since the swedish and english language is structurally alike, these annotators perform well in both languages.
 
-In respective folder is more information of how I created the models, along with how they perform on test data.
+In respective folder you can find more information of how I created the models, along with how they perform on test data.
