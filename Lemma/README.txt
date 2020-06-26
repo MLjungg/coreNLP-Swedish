@@ -8,4 +8,4 @@ This first version is fundamentally built using a {word, lemma} dictionary. The 
 
 https://github.com/UniversalDependencies/UD_Swedish-Talbanken
 
-In a future version, it can be valuable to consider the part of speech to improve the annotator. 
+In a future version, it can be valuable to consider the part of speech tag to improve the annotator. 
