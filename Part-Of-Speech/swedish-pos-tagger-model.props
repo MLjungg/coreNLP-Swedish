@@ -2,7 +2,7 @@
                    model = swedish-pos-tagger-model
                     arch = words(-1,1),unicodeshapes(-1,1),order(2),suffix(4)
             wordFunction = 
-               trainFile = format=TSV,wordColumn=1,tagColumn=4,/Users/mikael/stanford-corenlp-4.0.0/Stanford-POS/UD_Swedish-Talbanken-master/clean_sv_talbanken-ud-train.conllu
+               trainFile = format=TSV,wordColumn=1,tagColumn=4,/PATH/TO/clean_sv_talbanken-ud-train.conllu
          closedClassTags = 
  closedClassTagThreshold = 40
  curWordMinFeatureThresh = 2
