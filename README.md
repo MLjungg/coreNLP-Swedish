@@ -8,6 +8,10 @@ For now, a first version of the following annotators have been created:
 - Dependency Parser (ddepars)
 - Name Entity Recognition (NER)
 
+The models, the corresponding evaluation metrics and how they were trained can be found in respective directory.
+
 Regarding Tokenization (tok) and wordToSentence (ssplit), it is suitable to use the english models. Since the swedish and english language is structurally alike, these annotators perform well in both languages.
 
-In respective folder you can find more information of how I created the models, along with how they perform on test data.
+----------------------------------------------
+
+In the folder "src" you will find code were the annotators above are imported to coreNLP and used to form a custom annotator to classify GDPR data.
