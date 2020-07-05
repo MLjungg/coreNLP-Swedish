@@ -153,6 +153,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # Other
-./Dependency-parser/embed/*
+./Dependency-Parser/embed/*
+./Name-Entity-Recognition/*
+!./Name-Entity-Recognition/swedish-ner.prop
+!./Name-Entity-Recognition/classifiers/*
+
 
 # End of https://www.gitignore.io/api/node,linux,macos,windows
