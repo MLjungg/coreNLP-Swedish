@@ -152,4 +152,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Other
+./Dependency-parser/embed/*
+
 # End of https://www.gitignore.io/api/node,linux,macos,windows
