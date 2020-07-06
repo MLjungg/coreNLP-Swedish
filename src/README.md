@@ -1,1 +1,1 @@
-This directory contains all code to get the GDPR annotator up an running. This is a POC of how custom annotators can be created and used together with other annotators, and shall not be consider a functional version.
+This directory contains all code to get the GDPR annotator up an running. This is a POC of how custom annotators can be created and used together with other annotators, and shall not be consider a final version.
