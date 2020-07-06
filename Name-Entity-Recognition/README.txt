@@ -8,5 +8,3 @@ To train NER models for coreNLP you need the following:
 
 To train the model run the following command:
 java -mx8g -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop PATH/TO/swedish-ner.prop
-
-
