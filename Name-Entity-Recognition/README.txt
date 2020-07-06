@@ -1,3 +1,5 @@
+# Name Entity Recognition (NER)
+
 This is a repository to train a NER classifier to annotate words about persons, locations, organisations, health and politics.
 
 To train NER models for coreNLP you need the following:
