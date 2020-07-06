@@ -4,4 +4,6 @@ The next step is to download and parse data that you want to train your NER mode
 
 You will now have words labeled with the POS-tags PM, NN, JJ. 
 
-The next step is to use the gazetteers and substitute the POS-tag with the correct cathegory. You can find my labeled data in the file "dataFile_train.txt".
+The next step is to use the gazetteers and substitute the POS-tag with the correct cathegory.
+
+You're done! You can find my attempt to label data in the file "dataFile_train.txt".
