@@ -1,0 +1,29 @@
+trainFile = dataFile_train.txt
+serializeTo = newww_se-ner-model.ser.gz
+map = word=0,answer=1
+
+useClassFeature=true
+useWord=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=true
+useLastRealWord=true
+useNextRealWord=true
+useLongSequences=true
+useOccurrencePatterns=true
+maxLeft=1
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
+useDisjunctive=true
+useObservedSequencesOnly=true
+useQN = true
+QNsize = 25
+useGazettes = true
+gazette = /Users/mikael/Documents/Programmeringsprojekt/gazetteer/data/Words/tagged_words_health.txt
+featureDiffThresh=0.05
