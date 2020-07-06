@@ -1,5 +1,5 @@
 trainFile = dataFile_train.txt
-serializeTo = newww_se-ner-model.ser.gz
+serializeTo = gdpr_ner_model.ser.gz
 map = word=0,answer=1
 
 useClassFeature=true
