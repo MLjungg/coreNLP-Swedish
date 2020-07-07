@@ -1,3 +1,5 @@
+# Data
+
 Follow these instruction to create a dataset that can be used to train a NER model.
 
 First of all, start with creating a dictionary of words that belongs to a specific cathegory. You can follow the instruction I wrote in this repo: https://github.com/MLjungg/gazetteer.
