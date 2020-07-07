@@ -1,1 +1,3 @@
+# GDPR annotator
+
 This directory contains all code to get the GDPR annotator up an running. This is a POC of how custom annotators can be created and used together with other annotators.
