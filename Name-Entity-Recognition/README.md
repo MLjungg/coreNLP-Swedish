@@ -9,10 +9,10 @@ To train NER models for coreNLP you need the following:
 To train the model run the following command:
 java -mx8g -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop PATH/TO/swedish-ner.prop
 
-I managed to acheive the following F1-score on the train and test set:
-LOC: 85.2%\n
-ORG: 42.6%
-PER: 82.3%
-HEALTH: 88.5%
-POLITICS: 85.3#
+I managed to acheive the following F1-score on the train and test set:<br/>
+LOC: 85.2%<br/>
+ORG: 42.6%<br/>
+PER: 82.3%<br/>
+HEALTH: 88.5%<br/>
+POLITICS: 85.3
 
