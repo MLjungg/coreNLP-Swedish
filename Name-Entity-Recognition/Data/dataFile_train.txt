@@ -198,7 +198,7 @@ ekonomi	0
 ,	0
 fysisk	0
 och	0
-psykisk	0
+psykisk	HEALTH
 hälsa	0
 ,	0
 tillgång	0
@@ -674,7 +674,7 @@ ekonomi	0
 ,	0
 fysisk	0
 och	0
-psykisk	0
+psykisk	HEALTH
 hälsa	0
 ,	0
 tillgång	0
@@ -1179,7 +1179,7 @@ och	0
 konstaterade	0
 att	0
 denna	0
-blödning	0
+blödning	HEALTH
 bär	0
 på	0
 ett	0
@@ -25961,7 +25961,7 @@ Larsson	PER
 en	0
 åtgärdsplan	0
 mot	0
-hemlöshet	0
+hemlöshet	HEALTH
 .	0
 
 SCB	0
@@ -27399,7 +27399,7 @@ var	0
 den	0
 kinesiska	0
 litteraturens	0
-död	0
+död	HEALTH
 .	0
 
 Men	0
@@ -28800,7 +28800,7 @@ som	0
 ska	0
 ses	0
 som	0
-livshotande	0
+livshotande	HEALTH
 .	0
 
 Jag	0
@@ -29936,7 +29936,7 @@ flykt	0
 undan	0
 våld	0
 och	0
-död	0
+död	HEALTH
 ,	0
 i	0
 en	0
@@ -30888,7 +30888,7 @@ Teodorescu	0
 som	0
 själv	0
 är	0
-född	0
+född	HEALTH
 i	0
 Rumänien	LOC
 och	0
@@ -35753,7 +35753,7 @@ dessa	0
 konspirativa	0
 falsarier	0
 som	0
-symtom	0
+symtom	HEALTH
 på	0
 ett	0
 debattklimat	0
@@ -39382,7 +39382,7 @@ rättvisare	0
 skola	0
 ,	0
 ökad	0
-livskvalitet	0
+livskvalitet	HEALTH
 och	0
 bättre	0
 folkhälsa	0
@@ -39961,7 +39961,7 @@ Denna	0
 upprepade	0
 process	0
 är	0
-död	0
+död	HEALTH
 nu	0
 "	0
 ,	0
@@ -41161,7 +41161,7 @@ Eric	PER
 Lembembe	0
 har	0
 hittats	0
-död	0
+död	HEALTH
 i	0
 sitt	0
 hem	0
@@ -41177,7 +41177,7 @@ Mars	PER
 Lindesberg	LOC
 :	0
 En	0
-psykiskt	0
+psykiskt	HEALTH
 labil	0
 22-årig	0
 man	0
@@ -42444,7 +42444,7 @@ det	0
 att	0
 han	0
 är	0
-född	0
+född	HEALTH
 i	0
 Florida	PER
 ,	0
@@ -42503,7 +42503,7 @@ prins	0
 William	PER
 och	0
 Kate	PER
-sjukhuset	0
+sjukhuset	HEALTH
 i	0
 London	LOC
 tillsammans	0
@@ -42673,7 +42673,7 @@ Denna	0
 upprepade	0
 process	0
 är	0
-död	0
+död	HEALTH
 nu	0
 "	0
 ,	0
@@ -43873,7 +43873,7 @@ Eric	PER
 Lembembe	0
 har	0
 hittats	0
-död	0
+död	HEALTH
 i	0
 sitt	0
 hem	0
@@ -43889,7 +43889,7 @@ Mars	PER
 Lindesberg	LOC
 :	0
 En	0
-psykiskt	0
+psykiskt	HEALTH
 labil	0
 22-årig	0
 man	0
@@ -45156,7 +45156,7 @@ det	0
 att	0
 han	0
 är	0
-född	0
+född	HEALTH
 i	0
 Florida	PER
 ,	0
@@ -45215,7 +45215,7 @@ prins	0
 William	PER
 och	0
 Kate	PER
-sjukhuset	0
+sjukhuset	HEALTH
 i	0
 London	LOC
 tillsammans	0
@@ -47142,7 +47142,7 @@ kvällen	0
 grep	0
 honom	0
 på	0
-sjukhuset	0
+sjukhuset	HEALTH
 i	0
 Lund	PER
 där	0
@@ -47353,7 +47353,7 @@ Malmström	PER
 väcker	0
 domen	0
 “	0
-allvarliga	0
+allvarliga	HEALTH
 frågor	0
 ”	0
 om	0
@@ -48006,7 +48006,7 @@ och	0
 konstaterade	0
 att	0
 denna	0
-blödning	0
+blödning	HEALTH
 bär	0
 på	0
 ett	0
@@ -49398,7 +49398,7 @@ enligt	0
 ett	0
 system	0
 för	0
-diagnoser	0
+diagnoser	HEALTH
 ,	0
 DRG	ORG
 ,	0
@@ -50861,7 +50861,7 @@ Värmlandspolisen	0
 Lotta	PER
 Schelin	0
 är	0
-född	0
+född	HEALTH
 i	0
 Stockholm	LOC
 men	0
@@ -51245,7 +51245,7 @@ som	0
 när	0
 han	0
 lämnade	0
-sjukhuset	0
+sjukhuset	HEALTH
 en	0
 liten	0
 stund	0
@@ -52440,7 +52440,7 @@ lämnade	0
 William	PER
 och	0
 Kate	PER
-sjukhuset	0
+sjukhuset	HEALTH
 .	0
 
 Segerregissör	0
@@ -52840,7 +52840,7 @@ Rantie	0
 .	0
 
 Dwane	PER
-opererades	0
+opererades	HEALTH
 och	0
 tillfrisknade	0
 lagom	0
@@ -62326,7 +62326,7 @@ syn	0
 på	0
 och	0
 riksdagens	0
-behandling	0
+behandling	HEALTH
 av	0
 regeringskonferensen.<o:p><	0
 /	0
@@ -69913,7 +69913,7 @@ risk	0
 att	0
 julen	0
 tar	0
-död	0
+död	HEALTH
 på	0
 sig	0
 själv	0
@@ -70520,7 +70520,7 @@ Clinton	PER
 som	0
 vårdas	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 ,	0
 har	0
 drabbats	0
@@ -70646,7 +70646,7 @@ förhandlingsrätten	0
 det	0
 är	0
 det	0
-allvarliga	0
+allvarliga	HEALTH
 ”	0
 ,	0
 säger	0
@@ -72917,7 +72917,7 @@ har	0
 lagts	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 Pretoria	LOC
 i	0
@@ -73170,10 +73170,10 @@ okontaktbar	0
 och	0
 förklarades	0
 sedan	0
-död	0
+död	HEALTH
 på	0
 ett	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 Irving	PER
 ,	0
@@ -73578,7 +73578,7 @@ av	0
 cancer	HEALTH
 på	0
 ett	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 Dallas	PER
 .	0
@@ -75074,7 +75074,7 @@ matcher	0
 Men	0
 Teodor	PER
 var	0
-frustrerad	0
+frustrerad	HEALTH
 .	0
 
 Tillsammans	0
@@ -77097,7 +77097,7 @@ bland	0
 barnen	0
 på	0
 Gävle	LOC
-sjukhus	0
+sjukhus	HEALTH
 när	0
 han	0
 på	0
@@ -78830,11 +78830,11 @@ Björgen	0
 ,	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 Trondheim	ORG
 med	0
-hjärtproblem	0
+hjärtproblem	HEALTH
 .	0
 
 Sedan	0
@@ -80340,7 +80340,7 @@ svensk	0
 tid	0
 ,	0
 uppgav	0
-sjukhuset	0
+sjukhuset	HEALTH
 att	0
 att	0
 den	0
@@ -81037,7 +81037,7 @@ tävlingen	0
 Han	0
 verkar	0
 inte	0
-psykiskt	0
+psykiskt	HEALTH
 stabil	0
 helt	0
 enkelt	0
@@ -81340,9 +81340,9 @@ har	0
 lagts	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 med	0
-hjärtproblem	0
+hjärtproblem	HEALTH
 .	0
 
 Nästa	0
@@ -81422,7 +81422,7 @@ decennier	0
 fram	0
 till	0
 sin	0
-död	0
+död	HEALTH
 2009	0
 .	0
 
@@ -82064,7 +82064,7 @@ länet	0
 ,	0
 men	0
 inga	0
-allvarliga	0
+allvarliga	HEALTH
 utöver	0
 förmiddagens	0
 olycka	0
@@ -82081,7 +82081,7 @@ det	0
 som	0
 en	0
 mycket	0
-allvarlig	0
+allvarlig	HEALTH
 händelse	0
 ,	0
 säger	0
@@ -83181,7 +83181,7 @@ Pakistan	LOC
 fortfarande	0
 nersövd	0
 på	0
-sjukhuset	0
+sjukhuset	HEALTH
 i	0
 Lahore	0
 .	0
@@ -83702,7 +83702,7 @@ med	0
 ambulanshelikopter	0
 till	0
 Akademiska	0
-sjukhuset	0
+sjukhuset	HEALTH
 ,	0
 säger	0
 Markus	PER
@@ -84037,7 +84037,7 @@ berättade	0
 att	0
 hon	0
 varit	0
-deprimerad	0
+deprimerad	HEALTH
 .	0
 
 det	0
@@ -84449,7 +84449,7 @@ konsekvenser	0
 för	0
 vården	0
 av	0
-psykiskt	0
+psykiskt	HEALTH
 sjuka	0
 i	0
 Frankrike	LOC
@@ -84792,7 +84792,7 @@ en	0
 svår	0
 knäskada	0
 som	0
-opererades	0
+opererades	HEALTH
 i	0
 Tyskland	LOC
 i	0
@@ -84821,11 +84821,11 @@ få	0
 testa	0
 en	0
 experimentell	0
-behandling	0
+behandling	HEALTH
 som	0
 utvärderas	0
 på	0
-sjukhuset	0
+sjukhuset	HEALTH
 ,	0
 skriver	0
 New	LOC
@@ -85645,7 +85645,7 @@ en	0
 kvinna	0
 fördes	0
 till	0
-sjukhus	0
+sjukhus	HEALTH
 för	0
 kontroll	0
 efter	0
@@ -86046,7 +86046,7 @@ dem	0
 ,	0
 en	0
 kvinna	0
-född	0
+född	HEALTH
 1980	0
 ,	0
 var	0
@@ -86717,7 +86717,7 @@ för	0
 vållande	0
 till	0
 annans	0
-död	0
+död	HEALTH
 efter	0
 en	0
 smitningsolycka	0
@@ -86803,7 +86803,7 @@ plats	0
 Mamie	PER
 Rearden	0
 ,	0
-född	0
+född	HEALTH
 7	0
 september	0
 1898	0
@@ -89615,7 +89615,7 @@ sista	0
 vi	0
 hörde	0
 från	0
-sjukhuset	0
+sjukhuset	HEALTH
 är	0
 att	0
 det	0
@@ -93276,7 +93276,7 @@ landslag	0
 Han	0
 fördes	0
 till	0
-sjukhus	0
+sjukhus	HEALTH
 där	0
 läkarna	0
 konstaterade	0
@@ -96318,14 +96318,14 @@ och	0
 fick	0
 föras	0
 till	0
-sjukhus	0
+sjukhus	HEALTH
 .	0
 
 En	0
 man	0
 har	0
 hittats	0
-död	0
+död	HEALTH
 i	0
 en	0
 lägenhet	0
@@ -97310,7 +97310,7 @@ att	0
 ta	0
 sig	0
 till	0
-sjukhus	0
+sjukhus	HEALTH
 ,	0
 enligt	0
 New	LOC
@@ -97637,7 +97637,7 @@ Skövde	LOC
 .	0
 
 En	0
-patient	0
+patient	HEALTH
 skulle	0
 operera	0
 sin	0
@@ -99333,7 +99333,7 @@ ett	0
 blåmärke	0
 ,	0
 en	0
-blödning	0
+blödning	HEALTH
 inne	0
 i	0
 benet	0
@@ -99356,7 +99356,7 @@ bedömning	0
 om	0
 hon	0
 ska	0
-opereras	0
+opereras	HEALTH
 eller	0
 inte	0
 .	0
@@ -100039,7 +100039,7 @@ Ljungbyhed	LOC
 hittades	0
 på	0
 torsdagen	0
-död	0
+död	HEALTH
 i	0
 sjön	0
 .	0
@@ -102266,7 +102266,7 @@ december	0
 hittades	0
 på	0
 tisdagen	0
-död	0
+död	HEALTH
 vid	0
 hamninloppet	0
 till	0
@@ -103744,7 +103744,7 @@ Contactmusic	0
 Hutsae	0
 Ono	PER
 ,	0
-född	0
+född	HEALTH
 31	0
 oktober	0
 1898	0
@@ -105177,7 +105177,7 @@ i	0
 Sofia	PER
 har	0
 ligan	0
-opererat	0
+opererat	HEALTH
 i	0
 flera	0
 länder	0
@@ -105341,7 +105341,7 @@ berättelse	0
 Jag	0
 togs	0
 in	0
-akut	0
+akut	HEALTH
 på	0
 Ystads	0
 lasarett	0
@@ -107811,7 +107811,7 @@ mamma	0
 fick	0
 föras	0
 till	0
-sjukhus	0
+sjukhus	HEALTH
 sedan	0
 de	0
 blivit	0
@@ -111613,7 +111613,7 @@ Sports	0
 Blomqvist	PER
 stannar	0
 på	0
-sjukhuset	0
+sjukhuset	HEALTH
 i	0
 Schweiz	LOC
 några	0
@@ -112558,7 +112558,7 @@ poäng	0
 En	0
 svårt	0
 sjuk	HEALTH
-patient	0
+patient	HEALTH
 väntade	0
 på	0
 en	0
@@ -114141,7 +114141,7 @@ Ytterligare	0
 tre	0
 fördes	0
 till	0
-sjukhus	0
+sjukhus	HEALTH
 med	0
 rökskador	0
 efter	0
@@ -114808,7 +114808,7 @@ knä	0
 och	0
 fick	0
 en	0
-blödning	0
+blödning	HEALTH
 i	0
 främre	0
 lårmuskeln	0
@@ -114971,7 +114971,7 @@ mannen	0
 togs	0
 till	0
 Värnamo	LOC
-sjukhus	0
+sjukhus	HEALTH
 .	0
 
 Den	0
@@ -116723,7 +116723,7 @@ där	0
 en	0
 person	0
 påträffats	0
-död	0
+död	HEALTH
 .	0
 
 En	0
@@ -117168,12 +117168,12 @@ fullt	0
 på	0
 intensiven	0
 vid	0
-sjukhuset	0
+sjukhuset	HEALTH
 i	0
 Halmstad	LOC
 behövde	0
 en	0
-patient	0
+patient	HEALTH
 flyttas	0
 .	0
 
@@ -117513,7 +117513,7 @@ Kardashians	0
 kattunge	0
 Mercy	PER
 är	0
-död	0
+död	HEALTH
 .	0
 
 17.13	0
@@ -123398,7 +123398,7 @@ och	0
 Schering	0
 få	0
 östtyska	0
-sjukhus	0
+sjukhus	HEALTH
 att	0
 ta	0
 emot	0
@@ -124028,7 +124028,7 @@ som	0
 själv	0
 legat	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 långa	0
 perioder	0
 på	0
@@ -126777,7 +126777,7 @@ ett	0
 mycket	0
 ,	0
 mycket	0
-allvarlig	0
+allvarlig	HEALTH
 samtal	0
 om	0
 vad	0
@@ -127393,7 +127393,7 @@ varit	0
 inlagd	0
 på	0
 ett	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 Houston	PER
 sedan	0
@@ -128542,7 +128542,7 @@ och	0
 sviktande	0
 ­fysisk	0
 och	0
-psykisk	0
+psykisk	HEALTH
 hälsa	0
 är	0
 faktorer	0
@@ -128632,7 +128632,7 @@ Linköpings	ORG
 målvakt	0
 ,	0
 uppsöka	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 Karlstad	LOC
 på	0
@@ -129069,7 +129069,7 @@ och	0
 lades	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 Trondheim	ORG
 natten	0
@@ -129678,7 +129678,7 @@ i	0
 Australien	LOC
 ringde	0
 upp	0
-sjukhuset	0
+sjukhuset	HEALTH
 och	0
 utgav	0
 sig	0
@@ -130918,7 +130918,7 @@ Haroche	0
 68	0
 år	0
 ,	0
-född	0
+född	HEALTH
 i	0
 Casablanca	ORG
 ,	0
@@ -132947,7 +132947,7 @@ för	0
 ”	0
 En	0
 pilgrims	0
-död	0
+död	HEALTH
 ”	0
 :	0
 –	0
@@ -133046,7 +133046,7 @@ lördagen	0
 lämna	0
 intensivvårdsavdelningen	0
 på	0
-sjukhuset	0
+sjukhuset	HEALTH
 i	0
 Houston	PER
 .	0
@@ -133131,7 +133131,7 @@ Han	0
 fördes	0
 hastigt	0
 till	0
-sjukhus	0
+sjukhus	HEALTH
 och	0
 har	0
 bland	0
@@ -133692,7 +133692,7 @@ Princess	ORG
 ,	0
 med	0
 liknande	0
-symtom	0
+symtom	HEALTH
 .	0
 
 Ericssonledningen	0
@@ -135992,7 +135992,7 @@ skriva	0
 in	0
 JR	ORG
 Ewings	0
-död	0
+död	HEALTH
 i	0
 serien	0
 .	0
@@ -136881,7 +136881,7 @@ Han	0
 fördes	0
 till	0
 Hudiksvalls	ORG
-sjukhus	0
+sjukhus	HEALTH
 och	0
 enligt	0
 landstinget	0
@@ -140943,7 +140943,7 @@ han	0
 avrättas	0
 med	0
 en	0
-dödlig	0
+dödlig	HEALTH
 injektion	0
 i	0
 delstatsfängelset	0
@@ -141835,7 +141835,7 @@ berättat	0
 för	0
 polis	0
 på	0
-sjukhuset	0
+sjukhuset	HEALTH
 enligt	0
 tidningen	0
 Hindustan	ORG
@@ -144080,7 +144080,7 @@ redovisar	0
 planerna	0
 för	0
 ett	0
-akut	0
+akut	HEALTH
 hjälppaket	0
 och	0
 ett	0
@@ -148997,7 +148997,7 @@ sparpaket	0
 finns	0
 det	0
 inget	0
-akut	0
+akut	HEALTH
 hot	0
 mot	0
 någon	0
@@ -152442,7 +152442,7 @@ Djurgården	LOC
 Förslaget	0
 har	0
 nämligen	0
-allvarliga	0
+allvarliga	HEALTH
 brister	0
 ,	0
 vilket	0
@@ -154133,7 +154133,7 @@ under	0
 söndagen	0
 .	0
 
-Kronisk	0
+Kronisk	HEALTH
 eosinofil	0
 leukemi	HEALTH
 har	0
@@ -154285,7 +154285,7 @@ vid	0
 primär	0
 suturering	0
 av	0
-sår	0
+sår	HEALTH
 där	0
 vävnaderna	0
 är	0
@@ -154303,7 +154303,7 @@ att	0
 feta	0
 ska	0
 kunna	0
-sjukskrivas	0
+sjukskrivas	HEALTH
 under	0
 diagnosen	0
 fetma	HEALTH
@@ -154406,9 +154406,9 @@ blåmärket	0
 Att	0
 sjukdomen	HEALTH
 /	0
-symtomen	0
+symtomen	HEALTH
 finns	0
-Akut	0
+Akut	HEALTH
 vestibulärt	0
 avbrott	0
 :	0
@@ -154644,11 +154644,11 @@ Och	0
 evidensbaserad	0
 kunskap	0
 om	0
-behandling	0
+behandling	HEALTH
 av	0
 depression	HEALTH
 och	0
-ångestsjukdomar	0
+ångestsjukdomar	HEALTH
 finns	0
 också	0
 .	0
@@ -154657,7 +154657,7 @@ Frånsett	0
 ökad	0
 risk	0
 för	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 ger	0
 studien	0
 inget	0
@@ -154674,7 +154674,7 @@ för	0
 kardiovaskulär	0
 sjukdom	HEALTH
 eller	0
-död	0
+död	HEALTH
 .	0
 
 Andra	0
@@ -154707,7 +154707,7 @@ patienten	0
 och	0
 att	0
 patientens	0
-symtom	0
+symtom	HEALTH
 i	0
 stället	0
 kan	0
@@ -154768,7 +154768,7 @@ dessutom	0
 av	0
 signifikant	0
 fler	0
-allvarliga	0
+allvarliga	HEALTH
 blödningar	HEALTH
 (	0
 10	0
@@ -154815,7 +154815,7 @@ Engine	ORG
 (	0
 UKPDS	0
 =	0
-UK	ORG
+UK	HEALTH
 Prospective	0
 Diabetes	HEALTH
 Study	0
@@ -154862,7 +154862,7 @@ på	0
 någon	0
 form	0
 av	0
-demenssjukdom	0
+demenssjukdom	HEALTH
 snarare	0
 än	0
 åldrande	0
@@ -154892,7 +154892,7 @@ men	0
 laktatacidos	HEALTH
 är	0
 en	0
-livshotande	0
+livshotande	HEALTH
 komplikation	HEALTH
 som	0
 kan	0
@@ -154937,7 +154937,7 @@ hjärtinfarkt	HEALTH
 ,	0
 slaganfall	0
 och	0
-död	0
+död	HEALTH
 i	0
 hjärt-kärlsjukdom	HEALTH
 en	0
@@ -154967,11 +154967,11 @@ luftvägar	0
 
 CHD	0
 =	0
-koronarsjukdom	0
+koronarsjukdom	HEALTH
 ,	0
 inkluderar	0
 koronar	0
-död	0
+död	HEALTH
 och	0
 icke-letal	0
 hjärtinfarkt	HEALTH
@@ -155001,7 +155001,7 @@ biverkningar	0
 
 2005-11-09	0
 Danderyds	0
-sjukhus	0
+sjukhus	HEALTH
 3-3-2	0
 ,	0
 3-2-3	0
@@ -155048,21 +155048,21 @@ vänster	0
 förmak	0
 ,	0
 etablerat	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 och	0
-symtom	0
+symtom	HEALTH
 på	0
 hjärtsvikt	HEALTH
 .	0
 
 Sammanfattningsvis	0
 är	0
-neurologiska	0
-symtom	0
+neurologiska	HEALTH
+symtom	HEALTH
 ovanliga	0
 ,	0
 men	0
-allvarliga	0
+allvarliga	HEALTH
 biverkningar	0
 vid	0
 litiumbehandling	HEALTH
@@ -155209,7 +155209,7 @@ i	0
 sin	0
 helhet	0
 !	0
-Behandling	0
+Behandling	HEALTH
 av	0
 arytmier	0
 och	0
@@ -155221,11 +155221,11 @@ vanligaste	0
 transfusionsreaktionen	0
 idag	0
 är	0
-allergisk	0
+allergisk	HEALTH
 reaktion	0
 ,	0
 med	0
-symtom	0
+symtom	HEALTH
 såsom	0
 utslag	0
 och	0
@@ -155259,7 +155259,7 @@ har	0
 »	0
 en	0
 psykiatrisk	0
-diagnos	0
+diagnos	HEALTH
 som	0
 bland	0
 annat	0
@@ -155276,7 +155276,7 @@ tempo	0
 Möjligheten	0
 till	0
 effektiv	0
-behandling	0
+behandling	HEALTH
 även	0
 vid	0
 terapisvikt	HEALTH
@@ -155333,7 +155333,7 @@ lika	0
 tydlig	0
 som	0
 efter	0
-behandling	0
+behandling	HEALTH
 med	0
 östrogen	0
 .	0
@@ -155350,7 +155350,7 @@ blev	0
 pensionärer	0
 hade	0
 annan	0
-allvarlig	0
+allvarlig	HEALTH
 sjukdom	HEALTH
 ,	0
 som	0
@@ -155479,7 +155479,7 @@ fick	0
 först	0
 genomgå	0
 icke-farmakologisk	0
-behandling	0
+behandling	HEALTH
 av	0
 sin	0
 sjukdom	HEALTH
@@ -155532,7 +155532,7 @@ har	0
 kortvarig	0
 effekt	0
 vid	0
-kronisk	0
+kronisk	HEALTH
 smärta	HEALTH
 från	0
 ländryggen	0
@@ -155541,7 +155541,7 @@ i	0
 någon	0
 mån	0
 vid	0
-akut	0
+akut	HEALTH
 smärta	HEALTH
 .	0
 
@@ -155557,7 +155557,7 @@ den	0
 ökade	0
 risken	0
 för	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 ger	0
 resultaten	0
 således	0
@@ -155585,12 +155585,12 @@ för	0
 kardiovaskulär	0
 sjukdom	HEALTH
 eller	0
-död	0
+död	HEALTH
 .	0
 
 Patienter	0
 med	0
-obstruktiv	0
+obstruktiv	HEALTH
 sömnapné	HEALTH
 och	0
 AHI	ORG
@@ -155638,9 +155638,9 @@ mellitus	0
 ,	0
 hyperlipidemi	0
 ,	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 och	0
-hypertoni	0
+hypertoni	HEALTH
 .	0
 
 Även	0
@@ -155792,7 +155792,7 @@ Yrsel	HEALTH
 är	0
 ett	0
 vanligt	0
-symtom	0
+symtom	HEALTH
 hos	0
 patienter	0
 i	0
@@ -155806,7 +155806,7 @@ incidens	0
 och	0
 dödlighet	0
 i	0
-kolorektal	0
+kolorektal	HEALTH
 cancer	HEALTH
 är	0
 därmed	0
@@ -155889,7 +155889,7 @@ dem	0
 som	0
 har	0
 en	0
-psykisk	0
+psykisk	HEALTH
 sjukdom	HEALTH
 kommer	0
 att	0
@@ -156010,7 +156010,7 @@ statiner	0
 ,	0
 acetylsalicylsyra	0
 ,	0
-betablockerare	0
+betablockerare	HEALTH
 osv	0
 [	0
 4	0
@@ -156047,7 +156047,7 @@ Medicinplacering	0
 7,6	0
 )	0
 Lokal	0
-behandling	0
+behandling	HEALTH
 med	0
 kortison	HEALTH
 tillsammans	0
@@ -156156,7 +156156,7 @@ interferonbehandlade	0
 patienter	0
 av	0
 ospecifika	0
-symtom	0
+symtom	HEALTH
 som	0
 hosta	HEALTH
 ,	0
@@ -156186,14 +156186,14 @@ inte	0
 kan	0
 erbjudas	0
 optimala	0
-psykosociala	0
+psykosociala	HEALTH
 och	0
 farmakologiska	0
 interventioner	0
 .	0
 
 Denna	0
-behandling	0
+behandling	HEALTH
 bör	0
 övervägas	0
 särskilt	0
@@ -156204,7 +156204,7 @@ barn	0
 med	0
 grava	0
 kraniofaciala	0
-missbildningar	0
+missbildningar	HEALTH
 eller	0
 neuromuskulära	0
 sjukdomar	HEALTH
@@ -156217,7 +156217,7 @@ av	0
 smärtan	0
 från	0
 en	0
-kronisk	0
+kronisk	HEALTH
 ,	0
 skovvist	0
 förlöpande	0
@@ -156306,7 +156306,7 @@ något	0
 slag	0
 ska	0
 få	0
-behandling	0
+behandling	HEALTH
 för	0
 denna	0
 under	0
@@ -156332,9 +156332,9 @@ rökstopp	0
 motion	0
 och	0
 adekvat	0
-behandling	0
+behandling	HEALTH
 av	0
-hypertoni	0
+hypertoni	HEALTH
 ,	0
 hyperlipidemi	0
 och	0
@@ -156430,10 +156430,10 @@ IFNa-	0
 /	0
 ribavirinbehandling	0
 för	0
-sarkoidos	0
-Diagnostik	0
+sarkoidos	HEALTH
+Diagnostik	HEALTH
 och	0
-behandling	0
+behandling	HEALTH
 .	0
 
 Ett	0
@@ -156534,7 +156534,7 @@ bli	0
 aktuell	0
 .	0
 
-Behandling	0
+Behandling	HEALTH
 vid	0
 luxation	0
 PAD	0
@@ -156545,7 +156545,7 @@ granulomatös	0
 inflammation	HEALTH
 förenlig	0
 med	0
-sarkoidos	0
+sarkoidos	HEALTH
 .	0
 
 I	0
@@ -156553,7 +156553,7 @@ januari	0
 2005	0
 skedde	0
 en	0
-akut	0
+akut	HEALTH
 försämring	0
 med	0
 debut	0
@@ -156568,10 +156568,10 @@ patienten	0
 togs	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 för	0
 misstänkt	0
-akut	0
+akut	HEALTH
 hjärtinfarkt	HEALTH
 .	0
 
@@ -156589,7 +156589,7 @@ infektionssjukdomar	HEALTH
 som	0
 luftvägsinfektioner	0
 ,	0
-malaria	0
+malaria	HEALTH
 och	0
 HIV	HEALTH
 /	0
@@ -156620,7 +156620,7 @@ onkologisk	0
 endokrinologi	0
 ,	0
 Akademiska	0
-sjukhuset	0
+sjukhuset	HEALTH
 ,	0
 Uppsala	LOC
 Trots	0
@@ -156816,7 +156816,7 @@ för	0
 tidig	0
 hinnbristning	0
 och	0
-preeklampsi	0
+preeklampsi	HEALTH
 .	0
 
 Svensk	0
@@ -156832,7 +156832,7 @@ till	0
 nya	0
 riktlinjer	0
 för	0
-behandling	0
+behandling	HEALTH
 av	0
 diabetes	HEALTH
 .	0
@@ -156850,11 +156850,11 @@ stroke	HEALTH
 behandlad	0
 diabetes	HEALTH
 ,	0
-kronisk	0
+kronisk	HEALTH
 hjärtsvikt	HEALTH
 ,	0
 angina	0
-pectoris	0
+pectoris	HEALTH
 och	0
 kreatinin	0
 >	0
@@ -156878,7 +156878,7 @@ har	0
 effekt	0
 och	0
 nya	0
-symtom	0
+symtom	HEALTH
 på	0
 fokala	0
 skador	0
@@ -156888,7 +156888,7 @@ försämring	0
 återkomst	0
 av	0
 tidigare	0
-symtom	0
+symtom	HEALTH
 tillstöter	0
 eller	0
 patienten	0
@@ -156967,7 +156967,7 @@ kontrollera	0
 effekten	0
 av	0
 given	0
-behandling	0
+behandling	HEALTH
 ,	0
 eftersom	0
 ensidig	0
@@ -156975,9 +156975,9 @@ ensidig	0
 ofta	0
 är	0
 ett	0
-symtom	0
+symtom	HEALTH
 på	0
-allvarlig	0
+allvarlig	HEALTH
 ögonsjukdom	0
 ,	0
 och	0
@@ -157006,7 +157006,7 @@ IFNa	0
 används	0
 terapeutiskt	0
 vid	0
-kronisk	0
+kronisk	HEALTH
 hepatit	0
 C	0
 och	0
@@ -157020,7 +157020,7 @@ lymfom	HEALTH
 ,	0
 IFNb	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 multipel	0
 skleros	HEALTH
@@ -157190,8 +157190,8 @@ infektion	HEALTH
 Läkemedel	0
 mot	0
 blodcancersjukdomen	0
-kronisk	0
-myeloisk	0
+kronisk	HEALTH
+myeloisk	HEALTH
 leukemi	HEALTH
 kan	0
 ge	0
@@ -157255,7 +157255,7 @@ sjukskrivning	HEALTH
 för	0
 någon	0
 enda	0
-patient	0
+patient	HEALTH
 (	0
 DN	ORG
 21	0
@@ -157273,7 +157273,7 @@ andra	0
 behandlingsomgången	0
 utvecklade	0
 patienten	0
-luftvägssymtom	0
+luftvägssymtom	HEALTH
 med	0
 långdragen	0
 besvärande	0
@@ -157383,9 +157383,9 @@ intresse	0
 för	0
 annat	0
 än	0
-malaria	0
+malaria	HEALTH
 ,	0
-tuberkulos	0
+tuberkulos	HEALTH
 och	0
 HIV	HEALTH
 Samtidigt	0
@@ -157414,7 +157414,7 @@ den	0
 här	0
 typen	0
 av	0
-allvarliga	0
+allvarliga	HEALTH
 sjukdomar	HEALTH
 .	0
 
@@ -157464,7 +157464,7 @@ kunde	0
 bero	0
 på	0
 en	0
-immunmedierad	0
+immunmedierad	HEALTH
 sjukdom	HEALTH
 ,	0
 vilket	0
@@ -157474,7 +157474,7 @@ passade	0
 bäst	0
 in	0
 på	0
-SLE	0
+SLE	HEALTH
 [	0
 16	0
 ]	0
@@ -157506,11 +157506,11 @@ tunntarmen	0
 vanliga	0
 hos	0
 denna	0
-patientgrupp	0
+patientgrupp	HEALTH
 ,	0
 och	0
 tidig	0
-diagnostik	0
+diagnostik	HEALTH
 är	0
 av	0
 yttersta	0
@@ -157518,13 +157518,13 @@ vikt	0
 för	0
 botande	0
 kirurgisk	0
-behandling	0
+behandling	HEALTH
 .	0
 
 De	0
 vanligaste	0
 aktivitetsrelaterade	0
-besvären	0
+besvären	HEALTH
 är	0
 hudförändringar	HEALTH
 (	0
@@ -157539,7 +157539,7 @@ och	0
 (	0
 irit	0
 ,	0
-uveit	0
+uveit	HEALTH
 )	0
 .	0
 
@@ -157587,8 +157587,8 @@ genomgått	0
 Läkemedel	0
 mot	0
 blodcancersjukdomen	0
-kronisk	0
-myeloisk	0
+kronisk	HEALTH
+myeloisk	HEALTH
 leukemi	HEALTH
 kan	0
 ge	0
@@ -157605,7 +157605,7 @@ juli	0
 Han	0
 ordinerades	0
 fortsatt	0
-behandling	0
+behandling	HEALTH
 för	0
 sin	0
 lunginflammation	HEALTH
@@ -157625,14 +157625,14 @@ Vårdrelaterade	0
 infektioner	HEALTH
 orsakade	0
 av	0
-multiresistenta	0
+multiresistenta	HEALTH
 Acinetobacter	0
 är	0
 ett	0
 exempel	0
 på	0
 att	0
-multiresistenta	0
+multiresistenta	HEALTH
 gramnegativa	0
 bakterier	0
 är	0
@@ -157706,7 +157706,7 @@ som	0
 togs	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 för	0
 hjärtsvikt	HEALTH
 och	0
@@ -157813,7 +157813,7 @@ hon	0
 gjorde	0
 .	0
 
-Medicinsk	0
+Medicinsk	HEALTH
 qigong	0
 ingår	0
 som	0
@@ -157848,11 +157848,11 @@ Stor	0
 vikt	0
 läggs	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 patienter	0
 med	0
-koronara	0
+koronara	HEALTH
 syndrom	HEALTH
 .	0
 
@@ -157865,7 +157865,7 @@ att	0
 läggas	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 efter	0
 nyföddhetsperioden	0
 beror	0
@@ -157969,7 +157969,7 @@ vanligt	0
 att	0
 personer	0
 med	0
-demenssjukdom	0
+demenssjukdom	HEALTH
 utvecklar	0
 depression	HEALTH
 .	0
@@ -158045,10 +158045,10 @@ syndrom	HEALTH
 ,	0
 parasitinfektion	0
 ,	0
-atopisk	0
+atopisk	HEALTH
 sjukdom	HEALTH
 ,	0
-allergisk	0
+allergisk	HEALTH
 läkemedelsreaktion	0
 ,	0
 hematologiskmalignitet	0
@@ -158062,7 +158062,7 @@ vaskulit	HEALTH
 ,	0
 hudsjukdom	HEALTH
 ,	0
-bakteriell	0
+bakteriell	HEALTH
 infektion	HEALTH
 Förutsättningarna	0
 för	0
@@ -158245,7 +158245,7 @@ har	0
 terapeutiskt	0
 använts	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 exempelvis	0
 lungfibros	0
@@ -158257,10 +158257,10 @@ av	0
 terapisvikt	HEALTH
 på	0
 insatt	0
-behandling	0
+behandling	HEALTH
 ,	0
 predisponerande	0
-hjärt-lungsjukdom	0
+hjärt-lungsjukdom	HEALTH
 (	0
 exklusionskriterium	0
 i	0
@@ -158304,7 +158304,7 @@ patienter	0
 med	0
 refraktär	0
 angina	0
-pectoris	0
+pectoris	HEALTH
 har	0
 en	0
 förvånansvärt	0
@@ -158316,7 +158316,7 @@ avancerad	0
 hjärt-kärlsjukdom	HEALTH
 och	0
 anginösa	0
-symtom	0
+symtom	HEALTH
 .	0
 
 Svenska	0
@@ -158325,7 +158325,7 @@ Implantatkombinationer	0
 och	0
 typ	0
 av	0
-sjukhus	0
+sjukhus	HEALTH
 Först	0
 en	0
 noggrann	0
@@ -158346,7 +158346,7 @@ fetma	HEALTH
 rökning	0
 ,	0
 kvarstående	0
-hypertoni	0
+hypertoni	HEALTH
 (	0
 =	0
 140	0
@@ -158505,7 +158505,7 @@ som	0
 en	0
 polypös	0
 ,	0
-lättblödande	0
+lättblödande	HEALTH
 intrabronkiell	0
 tumör	HEALTH
 .	0
@@ -158532,7 +158532,7 @@ från	0
 Statens	0
 beredning	0
 för	0
-medicinsk	0
+medicinsk	HEALTH
 utvärdering	0
 (	0
 SBU	0
@@ -158618,7 +158618,7 @@ att	0
 behandla	0
 hypertoniker	0
 med	0
-ACE-hämmare	0
+ACE-hämmare	HEALTH
 ses	0
 en	0
 reduktion	0
@@ -158719,12 +158719,12 @@ rotatorisk	0
 yrsel	HEALTH
 och	0
 ofta	0
-illamående	0
+illamående	HEALTH
 .	0
 
 Av	0
 diffusa	0
-symtom	0
+symtom	HEALTH
 förväntas	0
 vi	0
 skapa	0
@@ -158761,9 +158761,9 @@ hjärtinfarkt	HEALTH
 och	0
 remitterat	0
 honom	0
-akut	0
+akut	HEALTH
 till	0
-sjukhus	0
+sjukhus	HEALTH
 för	0
 provtagning	0
 ,	0
@@ -158809,7 +158809,7 @@ risk	0
 för	0
 att	0
 utveckla	0
-syndromet	0
+syndromet	HEALTH
 ,	0
 kvarstod	0
 sambandet	0
@@ -158858,7 +158858,7 @@ tillgång	0
 till	0
 utredning	0
 och	0
-behandling	0
+behandling	HEALTH
 för	0
 sin	0
 sjukdom	HEALTH
@@ -158934,7 +158934,7 @@ av	0
 underläkaren	0
 antagna	0
 diagnoserna	0
-blindtarmsinflammation	0
+blindtarmsinflammation	HEALTH
 och	0
 körtelbuk	0
 ,	0
@@ -158995,12 +158995,12 @@ hon	0
 gjort	0
 detta	0
 ?	0
-Kronisk	0
-hypertoni	0
+Kronisk	HEALTH
+hypertoni	HEALTH
 ,	0
 njursjukdom	HEALTH
 ,	0
-kronisk	0
+kronisk	HEALTH
 autoimmun	0
 sjukdom	HEALTH
 och	0
@@ -159071,7 +159071,7 @@ takykardi	0
 svimning	HEALTH
 och	0
 plötslig	0
-död	0
+död	HEALTH
 .	0
 
 Kvinnan	0
@@ -159174,7 +159174,7 @@ sjukdom	HEALTH
 ,	0
 inkluderar	0
 kardiovaskulär	0
-död	0
+död	HEALTH
 ,	0
 icke-letal	0
 hjärtinfarkt	HEALTH
@@ -159246,7 +159246,7 @@ koloniserade	0
 eller	0
 infekterade	0
 med	0
-multiresistenta	0
+multiresistenta	HEALTH
 Acinetobacter	0
 medför	0
 risk	0
@@ -159506,7 +159506,7 @@ LUCAS-behandling	0
 var	0
 det	0
 spontana	0
-blodtrycket	0
+blodtrycket	HEALTH
 125	0
 /	0
 70	0
@@ -159605,7 +159605,7 @@ En	0
 av	0
 mortaliteten	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 beteendesymtom	0
 vid	0
@@ -159773,7 +159773,7 @@ en	0
 specifik	0
 gen	0
 för	0
-SLE	0
+SLE	HEALTH
 och	0
 bevis	0
 för	0
@@ -159838,12 +159838,12 @@ och	0
 botbara	0
 sjukdomar	HEALTH
 som	0
-malaria	0
+malaria	HEALTH
 och	0
 mag-	0
 tarm-	0
 och	0
-lunginfektioner	0
+lunginfektioner	HEALTH
 .	0
 
 Undersökningen	0
@@ -159855,7 +159855,7 @@ vara	0
 associerat	0
 till	0
 bla	0
-hypertoni	0
+hypertoni	HEALTH
 och	0
 diabetes	HEALTH
 ,	0
@@ -159933,7 +159933,7 @@ månader	0
 
 *	0
 Starta	0
-akut	0
+akut	HEALTH
 hemofiltration	0
 /	0
 hemodiafiltration	0
@@ -160172,7 +160172,7 @@ bra	0
 därför	0
 att	0
 ...	0
-Sarkoidos	0
+Sarkoidos	HEALTH
 -	0
 en	0
 granulomatös	0
@@ -160253,7 +160253,7 @@ många	0
 olika	0
 delfunktioner	0
 :	0
-blodfetter	0
+blodfetter	HEALTH
 ,	0
 kroppsvikt	0
 ,	0
@@ -160287,7 +160287,7 @@ studier	0
 .	0
 
 Vid	0
-behandling	0
+behandling	HEALTH
 av	0
 erektil	0
 dysfunktion	0
@@ -160300,7 +160300,7 @@ med	0
 perorala	0
 fosfodiesteras5-hämmare	0
 (	0
-PDE5-hämmare	0
+PDE5-hämmare	HEALTH
 )	0
 och	0
 vid	0
@@ -160327,7 +160327,7 @@ skrofulos	0
 den	0
 form	0
 av	0
-tuberkulos	0
+tuberkulos	HEALTH
 som	0
 angriper	0
 halsens	0
@@ -160354,12 +160354,12 @@ skrofler	0
 varav	0
 en	0
 med	0
-allvarliga	0
+allvarliga	HEALTH
 komplikationer	0
 i	0
 form	0
 av	0
-blödning	0
+blödning	HEALTH
 samt	0
 infektion	HEALTH
 .	0
@@ -160414,7 +160414,7 @@ till	0
 att	0
 förklara	0
 hur	0
-psykosocial	0
+psykosocial	HEALTH
 stress	0
 kan	0
 predicera	0
@@ -160440,20 +160440,20 @@ ha	0
 blivit	0
 godkänt	0
 för	0
-behandling	0
+behandling	HEALTH
 av	0
-hypertoni	0
+hypertoni	HEALTH
 om	0
 mer	0
 än	0
 var	0
 hundrade	0
-patient	0
+patient	HEALTH
 riskerar	0
 att	0
 få	0
 en	0
-allvarlig	0
+allvarlig	HEALTH
 kardiovaskulär	0
 komplikation	HEALTH
 av	0
@@ -160481,7 +160481,7 @@ På	0
 grund	0
 av	0
 kraftig	0
-blödning	0
+blödning	HEALTH
 ur	0
 vena	0
 cava	0
@@ -160583,11 +160583,11 @@ Rh-immunisering	HEALTH
 ,	0
 mässling	HEALTH
 ,	0
-Haemophilus	0
+Haemophilus	HEALTH
 influenzae-meningit	0
 ,	0
 kongenital	0
-hypotyreos	0
+hypotyreos	HEALTH
 ,	0
 fenylketonuri	0
 och	0
@@ -160771,7 +160771,7 @@ med	0
 amning	0
 och	0
 antiviral	0
-behandling	0
+behandling	HEALTH
 av	0
 barnet	0
 ,	0
@@ -161127,7 +161127,7 @@ Cystiskt	0
 makulaödem	0
 ,	0
 en	0
-inflammatorisk	0
+inflammatorisk	HEALTH
 typ	0
 av	0
 svullnad	HEALTH
@@ -161178,7 +161178,7 @@ IFNa	0
 en	0
 mer	0
 effektiv	0
-behandling	0
+behandling	HEALTH
 vid	0
 infektion	HEALTH
 med	0
@@ -161191,7 +161191,7 @@ risken	0
 för	0
 att	0
 utveckla	0
-sarkoidos	0
+sarkoidos	HEALTH
 som	0
 biverkan	0
 tycks	0
@@ -161349,7 +161349,7 @@ används	0
 mot	0
 bland	0
 annat	0
-kolorektal	0
+kolorektal	HEALTH
 cancer	HEALTH
 .	0
 
@@ -161407,7 +161407,7 @@ test	0
 för	0
 att	0
 identifiera	0
-demenssjukdom	0
+demenssjukdom	HEALTH
 i	0
 tidigt	0
 skede	0
@@ -161421,14 +161421,14 @@ studier	0
 som	0
 visar	0
 att	0
-demenssjukdom	0
+demenssjukdom	HEALTH
 går	0
 att	0
 förhindra	0
 genom	0
 tidigt	0
 insatt	0
-behandling	0
+behandling	HEALTH
 ,	0
 är	0
 det	0
@@ -161438,7 +161438,7 @@ försvarbart	0
 att	0
 bedriva	0
 avancerad	0
-diagnostik	0
+diagnostik	HEALTH
 vid	0
 lindrig	0
 kognitiv	0
@@ -161460,7 +161460,7 @@ kan	0
 ha	0
 berott	0
 på	0
-inflammatorisk	0
+inflammatorisk	HEALTH
 tarmsjukdom	HEALTH
 [	0
 12	0
@@ -161692,7 +161692,7 @@ mål	0
 vid	0
 läkemedelsbehandling	0
 av	0
-demenssjukdom	0
+demenssjukdom	HEALTH
 är	0
 att	0
 förbättra	0
@@ -161704,10 +161704,10 @@ att	0
 behandla	0
 depression	HEALTH
 ,	0
-beteendestörningar	0
+beteendestörningar	HEALTH
 och	0
-psykiska	0
-symtom	0
+psykiska	HEALTH
+symtom	HEALTH
 .	0
 
 Artikeln	0
@@ -161781,7 +161781,7 @@ Behandlingen	0
 har	0
 mycket	0
 få	0
-allvarliga	0
+allvarliga	HEALTH
 biverkningar	0
 ,	0
 men	0
@@ -161830,7 +161830,7 @@ den	0
 kan	0
 också	0
 vara	0
-allvarlig	0
+allvarlig	HEALTH
 .	0
 
 «	0
@@ -161972,7 +161972,7 @@ andra	0
 åkommor	HEALTH
 ,	0
 som	0
-smittkoppor	0
+smittkoppor	HEALTH
 ,	0
 bronkit	HEALTH
 ,	0
@@ -162094,7 +162094,7 @@ AHI	0
 10	0
 .	0
 
-Tuberkulos	0
+Tuberkulos	HEALTH
 är	0
 en	0
 mytomspunnen	0
@@ -162135,7 +162135,7 @@ samt	0
 låg	0
 risk	0
 för	0
-blödning	0
+blödning	HEALTH
 (	0
 exempelvis	0
 en	0
@@ -162275,11 +162275,11 @@ inte	0
 ökad	0
 risk	0
 för	0
-allvarliga	0
+allvarliga	HEALTH
 kardiella	0
 händelser	0
 som	0
-död	0
+död	HEALTH
 eller	0
 hjärtinfarkt	HEALTH
 (	0
@@ -162378,7 +162378,7 @@ Som	0
 exempel	0
 kan	0
 nämnas	0
-patient	0
+patient	HEALTH
 med	0
 pneumoni	0
 eller	0
@@ -162391,7 +162391,7 @@ Evidensbaserade	0
 vetenskapliga	0
 sammanställningar	0
 av	0
-behandling	0
+behandling	HEALTH
 eller	0
 rehabilitering	0
 för	0
@@ -162440,7 +162440,7 @@ Vid	0
 sidan	0
 av	0
 gängse	0
-behandling	0
+behandling	HEALTH
 för	0
 bröstcancer	HEALTH
 bör	0
@@ -162623,9 +162623,9 @@ insats	0
 mot	0
 HIV	HEALTH
 ,	0
-malaria	0
+malaria	HEALTH
 eller	0
-tuberkulos	0
+tuberkulos	HEALTH
 och	0
 blir	0
 lätt	0
@@ -162699,8 +162699,8 @@ bestående	0
 effekt	0
 .	0
 
-Metabola	0
-syndromet	0
+Metabola	HEALTH
+syndromet	HEALTH
 gav	0
 motsvarande	0
 riskökning	0
@@ -162736,7 +162736,7 @@ till	0
 infektionskomplikationerna	0
 hos	0
 vår	0
-patient	0
+patient	HEALTH
 .	0
 
 Patienten	0
@@ -162841,9 +162841,9 @@ Chagas	0
 '	0
 sjukdom	HEALTH
 ,	0
-tuberkulos	0
+tuberkulos	HEALTH
 och	0
-malaria	0
+malaria	HEALTH
 .	0
 
 10-årsrisken	0
@@ -162852,7 +162852,7 @@ kardiovaskulär	0
 sjukdom	HEALTH
 respektive	0
 för	0
-koronarsjukdom	0
+koronarsjukdom	HEALTH
 varierade	0
 kraftigt	0
 mellan	0
@@ -162992,7 +162992,7 @@ för	0
 ,	0
 orsakar	0
 både	0
-lindriga	0
+lindriga	HEALTH
 diarré	HEALTH
 och	0
 svåra	0
@@ -163077,8 +163077,8 @@ klåda	HEALTH
 astmatiska	0
 och	0
 andra	0
-allergiska	0
-symtom	0
+allergiska	HEALTH
+symtom	HEALTH
 .	0
 
 Råden	0
@@ -163112,7 +163112,7 @@ tillämpar	0
 i	0
 Sverige	LOC
 för	0
-behandling	0
+behandling	HEALTH
 av	0
 vuxna	0
 ,	0
@@ -163268,7 +163268,7 @@ Utredningen	0
 visade	0
 rabdomyolys	0
 och	0
-akut	0
+akut	HEALTH
 njursvikt	HEALTH
 med	0
 tubulär	0
@@ -163311,7 +163311,7 @@ få	0
 iväg	0
 en	0
 sådan	0
-patient	0
+patient	HEALTH
 till	0
 förmån	0
 för	0
@@ -163413,8 +163413,8 @@ om	0
 förekomst	0
 av	0
 det	0
-metabola	0
-syndromet	0
+metabola	HEALTH
+syndromet	HEALTH
 ger	0
 prognostisk	0
 information	0
@@ -163478,7 +163478,7 @@ bakteriemi	HEALTH
 och	0
 hud-	0
 och	0
-sårinfektioner	0
+sårinfektioner	HEALTH
 [	0
 13	0
 ,	0
@@ -163529,7 +163529,7 @@ på	0
 patienter	0
 med	0
 akuta	0
-koronara	0
+koronara	HEALTH
 syndrom	HEALTH
 (	0
 AKS	ORG
@@ -163538,7 +163538,7 @@ AKS	ORG
 där	0
 en	0
 instabil	0
-ischemi	0
+ischemi	HEALTH
 förmodades	0
 kunna	0
 motverkas	0
@@ -163601,7 +163601,7 @@ uppstod	0
 vid	0
 längre	0
 tids	0
-behandling	0
+behandling	HEALTH
 [	0
 3	0
 ]	0
@@ -163620,7 +163620,7 @@ tiden	0
 kvinnorna	0
 stannade	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 i	0
 samband	0
 med	0
@@ -163839,7 +163839,7 @@ mellan	0
 olika	0
 former	0
 av	0
-psykosocial	0
+psykosocial	HEALTH
 stress	0
 och	0
 framtida	0
@@ -163962,7 +163962,7 @@ om	0
 lunginflammation	HEALTH
 .	0
 
-Psykiatrin	0
+Psykiatrin	HEALTH
 täcker	0
 ett	0
 brett	0
@@ -163973,7 +163973,7 @@ störningar	0
 och	0
 begreppet	0
 »	0
-psykisk	0
+psykisk	HEALTH
 sjukdom	HEALTH
 «	0
 är	0
@@ -163994,13 +163994,13 @@ patienter	0
 )	0
 hade	0
 utvecklat	0
-Parkinsons	0
+Parkinsons	HEALTH
 sjukdom	HEALTH
 medan	0
 sex	0
 hade	0
 utvecklat	0
-Lewykroppsdemens	0
+Lewykroppsdemens	HEALTH
 .	0
 
 De	0
@@ -164017,7 +164017,7 @@ Alzheimers	HEALTH
 sjukdom	HEALTH
 och	0
 andra	0
-demenssjukdomar	0
+demenssjukdomar	HEALTH
 har	0
 inkluderats	0
 i	0
@@ -164056,7 +164056,7 @@ manlig	0
 doktor	0
 och	0
 kvinnlig	0
-patient	0
+patient	HEALTH
 .	0
 
 Arbetsmiljöverkets	0
@@ -164079,7 +164079,7 @@ börjar	0
 vårdgarantin	0
 gälla	0
 för	0
-psykisk	0
+psykisk	HEALTH
 sjukdom	HEALTH
 ?	0
 I	0
@@ -164121,7 +164121,7 @@ Influensa	0
 är	0
 en	0
 återkommande	0
-akut	0
+akut	HEALTH
 respiratorisk	0
 infektionssjukdom	HEALTH
 som	0
@@ -164199,9 +164199,9 @@ en	0
 signifikant	0
 koppling	0
 till	0
-sjukdomstillstånd	0
+sjukdomstillstånd	HEALTH
 som	0
-hypertoni	0
+hypertoni	HEALTH
 ,	0
 artrit	HEALTH
 ,	0
@@ -164303,7 +164303,7 @@ en	0
 vanlig	0
 och	0
 potentiellt	0
-allvarlig	0
+allvarlig	HEALTH
 komplikation	HEALTH
 till	0
 bukkirurgi	0
@@ -164385,7 +164385,7 @@ mot	0
 insulinresistens	0
 -	0
 den	0
-metabola	0
+metabola	HEALTH
 rubbning	0
 som	0
 genom	0
@@ -164413,7 +164413,7 @@ Vi	0
 ska	0
 inte	0
 döma	0
-psykiskt	0
+psykiskt	HEALTH
 sjuka	0
 för	0
 gärningar	0
@@ -164593,9 +164593,9 @@ i	0
 USA	LOC
 2004	0
 för	0
-behandling	0
+behandling	HEALTH
 av	0
-metastaserad	0
+metastaserad	HEALTH
 koloncancer	HEALTH
 .	0
 
@@ -164613,7 +164613,7 @@ hjärnblödning	0
 ,	0
 lungödem	0
 ,	0
-blödning	0
+blödning	HEALTH
 i	0
 levern	HEALTH
 med	0
@@ -164640,9 +164640,9 @@ man	0
 har	0
 kunskap	0
 om	0
-diagnostik	0
+diagnostik	HEALTH
 ,	0
-behandling	0
+behandling	HEALTH
 och	0
 farmakologi	HEALTH
 .	0
@@ -164734,7 +164734,7 @@ man	0
 funnit	0
 någon	0
 klar	0
-diagnos	0
+diagnos	HEALTH
 .	0
 
 Oral	0
@@ -164894,7 +164894,7 @@ avslutad	0
 Ingen	0
 lungor	HEALTH
 årslång	0
-behandling	0
+behandling	HEALTH
 Nu	0
 rapporteras	0
 åter	0
@@ -164973,7 +164973,7 @@ utveckling	0
 av	0
 ektopisk	0
 eller	0
-extrauterin	0
+extrauterin	HEALTH
 graviditet	HEALTH
 (	0
 EG	0
@@ -164983,8 +164983,8 @@ EG	0
 ]	0
 .	0
 
-Kroniskt	0
-obstruktiv	0
+Kroniskt	HEALTH
+obstruktiv	HEALTH
 lungsjukdom	HEALTH
 (	0
 KOL	0
@@ -165010,7 +165010,7 @@ av	0
 .	0
 
 Sammanfattat	0
-Diagnoser	0
+Diagnoser	HEALTH
 som	0
 hypereosinofilt	0
 syndrom	HEALTH
@@ -165093,7 +165093,7 @@ Men	0
 för	0
 att	0
 ge	0
-symtom	0
+symtom	HEALTH
 måste	0
 autoantikroppen	0
 som	0
@@ -165133,7 +165133,7 @@ har	0
 "	0
 en	0
 psykiatrisk	0
-diagnos	0
+diagnos	HEALTH
 som	0
 bland	0
 annat	0
@@ -165177,7 +165177,7 @@ tränar	0
 regelbundet	0
 ,	0
 sökte	0
-akut	0
+akut	HEALTH
 en	0
 vecka	0
 efter	0
@@ -165301,7 +165301,7 @@ avgörande	0
 komponent	0
 i	0
 en	0
-allvarlig	0
+allvarlig	HEALTH
 hjärnskada	HEALTH
 (	0
 »	0
@@ -165339,7 +165339,7 @@ den	0
 ,	0
 till	0
 exempel	0
-blödning	0
+blödning	HEALTH
 i	0
 konstaterad	0
 tumör	HEALTH
@@ -165361,7 +165361,7 @@ som	0
 kan	0
 kräva	0
 annan	0
-behandling	0
+behandling	HEALTH
 ,	0
 underströk	0
 Lennart	PER
@@ -165439,7 +165439,7 @@ Till	0
 dess	0
 gäller	0
 symtomatisk	0
-behandling	0
+behandling	HEALTH
 med	0
 inriktning	0
 på	0
@@ -165509,7 +165509,7 @@ god	0
 effekt	0
 på	0
 både	0
-stressutlösta	0
+stressutlösta	HEALTH
 och	0
 andra	0
 sjukdomar	HEALTH
@@ -165546,11 +165546,11 @@ och	0
 ,	0
 oftast	0
 för	0
-bröstsmärtor	0
+bröstsmärtor	HEALTH
 men	0
 också	0
 för	0
-intoxikationer	0
+intoxikationer	HEALTH
 ,	0
 andningsbesvär	HEALTH
 och	0
@@ -165830,7 +165830,7 @@ av	0
 klamydiafallen	0
 .	0
 
-Obstruktiv	0
+Obstruktiv	HEALTH
 sömnapné	HEALTH
 är	0
 vanligt	0
@@ -165940,10 +165940,10 @@ vara	0
 mycket	0
 god	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 akuta	0
-koronara	0
+koronara	HEALTH
 syndrom	HEALTH
 liksom	0
 vid	0
@@ -166052,7 +166052,7 @@ Skolläkaren	0
 är	0
 elevens	0
 företagsläkare	0
-Hypertoni	0
+Hypertoni	HEALTH
 framhålls	0
 givetvis	0
 vara	0
@@ -166116,12 +166116,12 @@ aktiva	0
 tex	0
 patienter	0
 med	0
-kronisk	0
-obstruktiv	0
+kronisk	HEALTH
+obstruktiv	HEALTH
 lungsjukdom	HEALTH
 eller	0
-kronisk	0
-reumatoid	0
+kronisk	HEALTH
+reumatoid	HEALTH
 artrit	HEALTH
 [	0
 18-20	0
@@ -166232,7 +166232,7 @@ livsmedel	0
 orsaka	0
 omfattande	0
 och	0
-allvarlig	0
+allvarlig	HEALTH
 sjukdom	HEALTH
 ,	0
 ofta	0
@@ -166387,7 +166387,7 @@ tjocktarmen	0
 .	0
 
 Karolinska	0
-sjukhuset	0
+sjukhuset	HEALTH
 stoppade	0
 t	0
 ex	0
@@ -166412,7 +166412,7 @@ rör	0
 en	0
 kvinna	0
 med	0
-bipolär	0
+bipolär	HEALTH
 sjukdom	HEALTH
 behandlad	0
 med	0
@@ -166522,7 +166522,7 @@ man	0
 dem	0
 som	0
 en	0
-lättblödande	0
+lättblödande	HEALTH
 polypös	0
 tumör	HEALTH
 ,	0
@@ -166555,7 +166555,7 @@ sjukdom	HEALTH
 X-CGD	0
 )	0
 med	0
-livshotande	0
+livshotande	HEALTH
 infektioner	HEALTH
 som	0
 behandlats	0
@@ -166584,7 +166584,7 @@ till	0
 ,	0
 kön	0
 och	0
-samsjuklighet	0
+samsjuklighet	HEALTH
 .	0
 
 Flickan	0
@@ -166606,7 +166606,7 @@ kort	0
 tids	0
 vistelse	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 efter	0
 normal	0
 graviditet	HEALTH
@@ -166639,7 +166639,7 @@ energidrycker	0
 
 Britt	PER
 Andersson	PER
-Symtomen	0
+Symtomen	HEALTH
 är	0
 diarré	HEALTH
 ,	0
@@ -166662,7 +166662,7 @@ och	0
 ungdomar	0
 och	0
 därmed	0
-ohälsa	0
+ohälsa	HEALTH
 hos	0
 vuxna	0
 .	0
@@ -166754,14 +166754,14 @@ att	0
 tidigt	0
 insatt	0
 ortodontisk	0
-behandling	0
+behandling	HEALTH
 bör	0
 övervägas	0
 som	0
 komplement	0
 till	0
 kirurgisk	0
-behandling	0
+behandling	HEALTH
 .	0
 
 Om	0
@@ -166778,7 +166778,7 @@ upp	0
 på	0
 väntelista	0
 för	0
-behandling	0
+behandling	HEALTH
 .	0
 
 I	0
@@ -167417,7 +167417,7 @@ också	0
 vanligare	0
 vid	0
 faciliterande	0
-behandling	0
+behandling	HEALTH
 ,	0
 7	0
 procent	0
@@ -167549,13 +167549,13 @@ endast	0
 medicinsk	HEALTH
 bedömning	0
 av	0
-akut	0
+akut	HEALTH
 sjukdom	HEALTH
 ,	0
 nytillkomna	0
-symtom	0
+symtom	HEALTH
 och	0
-akut	0
+akut	HEALTH
 försämring	0
 av	0
 kronisk	HEALTH
@@ -167625,7 +167625,7 @@ Mediantiden	0
 från	0
 symtomdebut	0
 till	0
-diagnos	0
+diagnos	HEALTH
 vid	0
 denna	0
 sjukdom	HEALTH
@@ -167651,7 +167651,7 @@ att	0
 Beethovens	0
 olika	0
 fysiska	0
-symtom	0
+symtom	HEALTH
 kan	0
 förklaras	0
 med	0
@@ -167779,7 +167779,7 @@ men	0
 god	0
 kontroll	0
 av	0
-blodtrycket	0
+blodtrycket	HEALTH
 i	0
 medelåldern	0
 och	0
@@ -167977,7 +167977,7 @@ vid	0
 hjärtsvikt	HEALTH
 .	0
 
-Sarkoidos	0
+Sarkoidos	HEALTH
 är	0
 en	0
 granulomatös	0
@@ -168016,7 +168016,7 @@ Diabetes	HEALTH
 1	0
 ]	0
 om	0
-behandling	0
+behandling	HEALTH
 med	0
 PPARa-agonisten	0
 fenofibrat	0
@@ -168036,7 +168036,7 @@ Events	0
 2	0
 ]	0
 om	0
-behandling	0
+behandling	HEALTH
 med	0
 PPARgamma-agonisten	0
 pioglitazon	0
@@ -168079,7 +168079,7 @@ vårdtiden	0
 innan	0
 infektion	HEALTH
 med	0
-multiresistenta	0
+multiresistenta	HEALTH
 Acinetobacter	0
 konstaterades	0
 .	0
@@ -168144,7 +168144,7 @@ hjärtinfarkt	HEALTH
 ,	0
 stroke	HEALTH
 eller	0
-död	0
+död	HEALTH
 av	0
 kardiovaskulära	0
 orsaker	0
@@ -168180,7 +168180,7 @@ angiografi	0
 endast	0
 vid	0
 fortsatta	0
-symtom	0
+symtom	HEALTH
 eller	0
 tecken	0
 på	0
@@ -168189,7 +168189,7 @@ myo	0
 kardischemi	0
 trots	0
 medicinsk	HEALTH
-behandling	0
+behandling	HEALTH
 .	0
 
 Hur	0
@@ -168275,7 +168275,7 @@ ge	0
 risk	0
 för	0
 plötslig	0
-död	0
+död	HEALTH
 [	0
 12	0
 ]	0
@@ -168332,7 +168332,7 @@ många	0
 av	0
 dessa	0
 patienters	0
-symtom	0
+symtom	HEALTH
 misstolkas	0
 som	0
 astma	HEALTH
@@ -168342,7 +168342,7 @@ många	0
 ,	0
 innan	0
 rätt	0
-diagnos	0
+diagnos	HEALTH
 ställs	0
 .	0
 
@@ -168424,7 +168424,7 @@ svårighetsgrad	0
 Positiv	0
 saltbalans	0
 ger	0
-vätskeretention	0
+vätskeretention	HEALTH
 och	0
 ökande	0
 blodtryck	HEALTH
@@ -168502,7 +168502,7 @@ lungor	HEALTH
 genom	0
 ekokardiografi	0
 ,	0
-datortomografi	0
+datortomografi	HEALTH
 och	0
 magnetkamera	0
 .	0
@@ -168609,7 +168609,7 @@ därmed	0
 konfirmerad	0
 ,	0
 och	0
-behandling	0
+behandling	HEALTH
 med	0
 kontinuerlig	0
 dialys	0
@@ -168698,7 +168698,7 @@ kvinnor	0
 företrädesvis	0
 strax	0
 före	0
-menopaus	0
+menopaus	HEALTH
 .	0
 
 Tillståndet	0
@@ -168752,7 +168752,7 @@ inte	0
 påverkar	0
 förekomsten	0
 av	0
-död	0
+död	HEALTH
 ,	0
 hjärtinfarkt	HEALTH
 eller	0
@@ -168762,7 +168762,7 @@ de	0
 första	0
 fyra	0
 månadernas	0
-behandling	0
+behandling	HEALTH
 .	0
 
 I	0
@@ -168921,10 +168921,10 @@ om	0
 barn	0
 vars	0
 föräldrar	0
-diagnostiseras	0
+diagnostiseras	HEALTH
 med	0
 en	0
-livshotande	0
+livshotande	HEALTH
 sjukdom	HEALTH
 ,	0
 som	0
@@ -168947,7 +168947,7 @@ till	0
 stroke	HEALTH
 ,	0
 tidig	0
-död	0
+död	HEALTH
 och	0
 obstruktiv	HEALTH
 sömnapné	HEALTH
@@ -168968,7 +168968,7 @@ centrala	0
 vid	0
 undersökning	0
 och	0
-diagnostik	0
+diagnostik	HEALTH
 ,	0
 i	0
 synnerhet	0
@@ -169164,7 +169164,7 @@ vid	0
 primär	0
 suturering	0
 av	0
-sår	0
+sår	HEALTH
 där	0
 vävnaderna	0
 är	0
@@ -169182,7 +169182,7 @@ att	0
 feta	0
 ska	0
 kunna	0
-sjukskrivas	0
+sjukskrivas	HEALTH
 under	0
 diagnosen	0
 fetma	HEALTH
@@ -169316,9 +169316,9 @@ US-dollar	0
 Att	0
 sjukdomen	HEALTH
 /	0
-symtomen	0
+symtomen	HEALTH
 finns	0
-Akut	0
+Akut	HEALTH
 vestibulärt	0
 avbrott	0
 :	0
@@ -169440,7 +169440,7 @@ timmars	0
 mellanrum	0
 förklaras	0
 patienten	0
-död	0
+död	HEALTH
 om	0
 samtliga	0
 ovan	0
@@ -169586,11 +169586,11 @@ Och	0
 evidensbaserad	0
 kunskap	0
 om	0
-behandling	0
+behandling	HEALTH
 av	0
 depression	HEALTH
 och	0
-ångestsjukdomar	0
+ångestsjukdomar	HEALTH
 finns	0
 också	0
 .	0
@@ -169599,7 +169599,7 @@ Frånsett	0
 ökad	0
 risk	0
 för	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 ger	0
 studien	0
 inget	0
@@ -169616,7 +169616,7 @@ för	0
 kardiovaskulär	0
 sjukdom	HEALTH
 eller	0
-död	0
+död	HEALTH
 .	0
 
 Andra	0
@@ -169649,7 +169649,7 @@ patienten	0
 och	0
 att	0
 patientens	0
-symtom	0
+symtom	HEALTH
 i	0
 stället	0
 kan	0
@@ -169710,7 +169710,7 @@ dessutom	0
 av	0
 signifikant	0
 fler	0
-allvarliga	0
+allvarliga	HEALTH
 blödningar	HEALTH
 (	0
 10	0
@@ -169757,7 +169757,7 @@ Engine	ORG
 (	0
 UKPDS	0
 =	0
-UK	ORG
+UK	HEALTH
 Prospective	0
 Diabetes	HEALTH
 Study	0
@@ -169804,7 +169804,7 @@ på	0
 någon	0
 form	0
 av	0
-demenssjukdom	0
+demenssjukdom	HEALTH
 snarare	0
 än	0
 åldrande	0
@@ -169834,7 +169834,7 @@ men	0
 laktatacidos	HEALTH
 är	0
 en	0
-livshotande	0
+livshotande	HEALTH
 komplikation	HEALTH
 som	0
 kan	0
@@ -169910,7 +169910,7 @@ hjärtinfarkt	HEALTH
 ,	0
 slaganfall	0
 och	0
-död	0
+död	HEALTH
 i	0
 hjärt-kärlsjukdom	HEALTH
 en	0
@@ -169940,11 +169940,11 @@ luftvägar	0
 
 CHD	0
 =	0
-koronarsjukdom	0
+koronarsjukdom	HEALTH
 ,	0
 inkluderar	0
 koronar	0
-död	0
+död	HEALTH
 och	0
 icke-letal	0
 hjärtinfarkt	HEALTH
@@ -169974,7 +169974,7 @@ biverkningar	0
 
 2005-11-09	0
 Danderyds	0
-sjukhus	0
+sjukhus	HEALTH
 3-3-2	0
 ,	0
 3-2-3	0
@@ -170021,9 +170021,9 @@ vänster	0
 förmak	0
 ,	0
 etablerat	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 och	0
-symtom	0
+symtom	HEALTH
 på	0
 hjärtsvikt	HEALTH
 .	0
@@ -170031,11 +170031,11 @@ hjärtsvikt	HEALTH
 Sammanfattningsvis	0
 är	0
 neurologiska	HEALTH
-symtom	0
+symtom	HEALTH
 ovanliga	0
 ,	0
 men	0
-allvarliga	0
+allvarliga	HEALTH
 biverkningar	0
 vid	0
 litiumbehandling	HEALTH
@@ -170217,7 +170217,7 @@ i	0
 sin	0
 helhet	0
 !	0
-Behandling	0
+Behandling	HEALTH
 av	0
 arytmier	0
 och	0
@@ -170233,7 +170233,7 @@ allergisk	HEALTH
 reaktion	0
 ,	0
 med	0
-symtom	0
+symtom	HEALTH
 såsom	0
 utslag	0
 och	0
@@ -170267,7 +170267,7 @@ har	0
 »	0
 en	0
 psykiatrisk	0
-diagnos	0
+diagnos	HEALTH
 som	0
 bland	0
 annat	0
@@ -170284,7 +170284,7 @@ tempo	0
 Möjligheten	0
 till	0
 effektiv	0
-behandling	0
+behandling	HEALTH
 även	0
 vid	0
 terapisvikt	HEALTH
@@ -170341,7 +170341,7 @@ lika	0
 tydlig	0
 som	0
 efter	0
-behandling	0
+behandling	HEALTH
 med	0
 östrogen	0
 .	0
@@ -170358,7 +170358,7 @@ blev	0
 pensionärer	0
 hade	0
 annan	0
-allvarlig	0
+allvarlig	HEALTH
 sjukdom	HEALTH
 ,	0
 som	0
@@ -170487,7 +170487,7 @@ fick	0
 först	0
 genomgå	0
 icke-farmakologisk	0
-behandling	0
+behandling	HEALTH
 av	0
 sin	0
 sjukdom	HEALTH
@@ -170529,7 +170529,7 @@ blir	0
 positivt	0
 för	0
 både	0
-sjukhuset	0
+sjukhuset	HEALTH
 och	0
 all	0
 medicinsk	HEALTH
@@ -170575,7 +170575,7 @@ i	0
 någon	0
 mån	0
 vid	0
-akut	0
+akut	HEALTH
 smärta	HEALTH
 .	0
 
@@ -170634,7 +170634,7 @@ den	0
 ökade	0
 risken	0
 för	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 ger	0
 resultaten	0
 således	0
@@ -170662,7 +170662,7 @@ för	0
 kardiovaskulär	0
 sjukdom	HEALTH
 eller	0
-död	0
+död	HEALTH
 .	0
 
 Patienter	0
@@ -170715,9 +170715,9 @@ mellitus	0
 ,	0
 hyperlipidemi	0
 ,	0
-förmaksflimmer	0
+förmaksflimmer	HEALTH
 och	0
-hypertoni	0
+hypertoni	HEALTH
 .	0
 
 Även	0
@@ -170911,7 +170911,7 @@ Yrsel	HEALTH
 är	0
 ett	0
 vanligt	0
-symtom	0
+symtom	HEALTH
 hos	0
 patienter	0
 i	0
@@ -171008,7 +171008,7 @@ dem	0
 som	0
 har	0
 en	0
-psykisk	0
+psykisk	HEALTH
 sjukdom	HEALTH
 kommer	0
 att	0
@@ -171129,7 +171129,7 @@ statiner	0
 ,	0
 acetylsalicylsyra	0
 ,	0
-betablockerare	0
+betablockerare	HEALTH
 osv	0
 [	0
 4	0
@@ -171166,7 +171166,7 @@ Medicinplacering	0
 7,6	0
 )	0
 Lokal	0
-behandling	0
+behandling	HEALTH
 med	0
 kortison	HEALTH
 tillsammans	0
@@ -171337,7 +171337,7 @@ interferonbehandlade	0
 patienter	0
 av	0
 ospecifika	0
-symtom	0
+symtom	HEALTH
 som	0
 hosta	HEALTH
 ,	0
@@ -171367,14 +171367,14 @@ inte	0
 kan	0
 erbjudas	0
 optimala	0
-psykosociala	0
+psykosociala	HEALTH
 och	0
 farmakologiska	0
 interventioner	0
 .	0
 
 Denna	0
-behandling	0
+behandling	HEALTH
 bör	0
 övervägas	0
 särskilt	0
@@ -171385,7 +171385,7 @@ barn	0
 med	0
 grava	0
 kraniofaciala	0
-missbildningar	0
+missbildningar	HEALTH
 eller	0
 neuromuskulära	0
 sjukdomar	HEALTH
@@ -171527,7 +171527,7 @@ något	0
 slag	0
 ska	0
 få	0
-behandling	0
+behandling	HEALTH
 för	0
 denna	0
 under	0
@@ -171553,9 +171553,9 @@ rökstopp	0
 motion	0
 och	0
 adekvat	0
-behandling	0
+behandling	HEALTH
 av	0
-hypertoni	0
+hypertoni	HEALTH
 ,	0
 hyperlipidemi	0
 och	0
@@ -171651,10 +171651,10 @@ IFNa-	0
 /	0
 ribavirinbehandling	0
 för	0
-sarkoidos	0
-Diagnostik	0
+sarkoidos	HEALTH
+Diagnostik	HEALTH
 och	0
-behandling	0
+behandling	HEALTH
 .	0
 
 Ett	0
@@ -171755,7 +171755,7 @@ bli	0
 aktuell	0
 .	0
 
-Behandling	0
+Behandling	HEALTH
 vid	0
 luxation	0
 PAD	0
@@ -171766,7 +171766,7 @@ granulomatös	0
 inflammation	HEALTH
 förenlig	0
 med	0
-sarkoidos	0
+sarkoidos	HEALTH
 .	0
 
 I	0
@@ -171774,7 +171774,7 @@ januari	0
 2005	0
 skedde	0
 en	0
-akut	0
+akut	HEALTH
 försämring	0
 med	0
 debut	0
@@ -171789,10 +171789,10 @@ patienten	0
 togs	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 för	0
 misstänkt	0
-akut	0
+akut	HEALTH
 hjärtinfarkt	HEALTH
 .	0
 
@@ -171860,7 +171860,7 @@ infektionssjukdomar	HEALTH
 som	0
 luftvägsinfektioner	0
 ,	0
-malaria	0
+malaria	HEALTH
 och	0
 HIV	HEALTH
 /	0
@@ -171891,7 +171891,7 @@ onkologisk	0
 endokrinologi	0
 ,	0
 Akademiska	0
-sjukhuset	0
+sjukhuset	HEALTH
 ,	0
 Uppsala	LOC
 Trots	0
@@ -172087,7 +172087,7 @@ för	0
 tidig	0
 hinnbristning	0
 och	0
-preeklampsi	0
+preeklampsi	HEALTH
 .	0
 
 Svensk	0
@@ -172103,7 +172103,7 @@ till	0
 nya	0
 riktlinjer	0
 för	0
-behandling	0
+behandling	HEALTH
 av	0
 diabetes	HEALTH
 .	0
@@ -172125,7 +172125,7 @@ kronisk	HEALTH
 hjärtsvikt	HEALTH
 ,	0
 angina	0
-pectoris	0
+pectoris	HEALTH
 och	0
 kreatinin	0
 >	0
@@ -172149,7 +172149,7 @@ har	0
 effekt	0
 och	0
 nya	0
-symtom	0
+symtom	HEALTH
 på	0
 fokala	0
 skador	0
@@ -172159,7 +172159,7 @@ försämring	0
 återkomst	0
 av	0
 tidigare	0
-symtom	0
+symtom	HEALTH
 tillstöter	0
 eller	0
 patienten	0
@@ -172276,7 +172276,7 @@ kontrollera	0
 effekten	0
 av	0
 given	0
-behandling	0
+behandling	HEALTH
 ,	0
 eftersom	0
 ensidig	0
@@ -172284,9 +172284,9 @@ ensidig	0
 ofta	0
 är	0
 ett	0
-symtom	0
+symtom	HEALTH
 på	0
-allvarlig	0
+allvarlig	HEALTH
 ögonsjukdom	0
 ,	0
 och	0
@@ -172329,7 +172329,7 @@ lymfom	HEALTH
 ,	0
 IFNb	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 multipel	0
 skleros	HEALTH
@@ -172580,7 +172580,7 @@ sjukskrivning	HEALTH
 för	0
 någon	0
 enda	0
-patient	0
+patient	HEALTH
 (	0
 DN	ORG
 21	0
@@ -172598,7 +172598,7 @@ andra	0
 behandlingsomgången	0
 utvecklade	0
 patienten	0
-luftvägssymtom	0
+luftvägssymtom	HEALTH
 med	0
 långdragen	0
 besvärande	0
@@ -172708,9 +172708,9 @@ intresse	0
 för	0
 annat	0
 än	0
-malaria	0
+malaria	HEALTH
 ,	0
-tuberkulos	0
+tuberkulos	HEALTH
 och	0
 HIV	HEALTH
 Samtidigt	0
@@ -172739,7 +172739,7 @@ den	0
 här	0
 typen	0
 av	0
-allvarliga	0
+allvarliga	HEALTH
 sjukdomar	HEALTH
 .	0
 
@@ -172789,7 +172789,7 @@ kunde	0
 bero	0
 på	0
 en	0
-immunmedierad	0
+immunmedierad	HEALTH
 sjukdom	HEALTH
 ,	0
 vilket	0
@@ -172799,7 +172799,7 @@ passade	0
 bäst	0
 in	0
 på	0
-SLE	0
+SLE	HEALTH
 [	0
 16	0
 ]	0
@@ -172831,11 +172831,11 @@ tunntarmen	0
 vanliga	0
 hos	0
 denna	0
-patientgrupp	0
+patientgrupp	HEALTH
 ,	0
 och	0
 tidig	0
-diagnostik	0
+diagnostik	HEALTH
 är	0
 av	0
 yttersta	0
@@ -172843,13 +172843,13 @@ vikt	0
 för	0
 botande	0
 kirurgisk	0
-behandling	0
+behandling	HEALTH
 .	0
 
 De	0
 vanligaste	0
 aktivitetsrelaterade	0
-besvären	0
+besvären	HEALTH
 är	0
 hudförändringar	HEALTH
 (	0
@@ -172864,7 +172864,7 @@ och	0
 (	0
 irit	0
 ,	0
-uveit	0
+uveit	HEALTH
 )	0
 .	0
 
@@ -172930,7 +172930,7 @@ juli	0
 Han	0
 ordinerades	0
 fortsatt	0
-behandling	0
+behandling	HEALTH
 för	0
 sin	0
 lunginflammation	HEALTH
@@ -172950,14 +172950,14 @@ Vårdrelaterade	0
 infektioner	HEALTH
 orsakade	0
 av	0
-multiresistenta	0
+multiresistenta	HEALTH
 Acinetobacter	0
 är	0
 ett	0
 exempel	0
 på	0
 att	0
-multiresistenta	0
+multiresistenta	HEALTH
 gramnegativa	0
 bakterier	0
 är	0
@@ -173031,7 +173031,7 @@ som	0
 togs	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 för	0
 hjärtsvikt	HEALTH
 och	0
@@ -173211,11 +173211,11 @@ Stor	0
 vikt	0
 läggs	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 patienter	0
 med	0
-koronara	0
+koronara	HEALTH
 syndrom	HEALTH
 .	0
 
@@ -173228,7 +173228,7 @@ att	0
 läggas	0
 in	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 efter	0
 nyföddhetsperioden	0
 beror	0
@@ -173332,7 +173332,7 @@ vanligt	0
 att	0
 personer	0
 med	0
-demenssjukdom	0
+demenssjukdom	HEALTH
 utvecklar	0
 depression	HEALTH
 .	0
@@ -173608,7 +173608,7 @@ har	0
 terapeutiskt	0
 använts	0
 vid	0
-behandling	0
+behandling	HEALTH
 av	0
 exempelvis	0
 lungfibros	0
@@ -173620,10 +173620,10 @@ av	0
 terapisvikt	HEALTH
 på	0
 insatt	0
-behandling	0
+behandling	HEALTH
 ,	0
 predisponerande	0
-hjärt-lungsjukdom	0
+hjärt-lungsjukdom	HEALTH
 (	0
 exklusionskriterium	0
 i	0
@@ -173667,7 +173667,7 @@ patienter	0
 med	0
 refraktär	0
 angina	0
-pectoris	0
+pectoris	HEALTH
 har	0
 en	0
 förvånansvärt	0
@@ -173679,7 +173679,7 @@ avancerad	0
 hjärt-kärlsjukdom	HEALTH
 och	0
 anginösa	0
-symtom	0
+symtom	HEALTH
 .	0
 
 Svenska	0
@@ -173688,7 +173688,7 @@ Implantatkombinationer	0
 och	0
 typ	0
 av	0
-sjukhus	0
+sjukhus	HEALTH
 Först	0
 en	0
 noggrann	0
@@ -173709,7 +173709,7 @@ fetma	HEALTH
 rökning	0
 ,	0
 kvarstående	0
-hypertoni	0
+hypertoni	HEALTH
 (	0
 =	0
 140	0
@@ -173868,7 +173868,7 @@ som	0
 en	0
 polypös	0
 ,	0
-lättblödande	0
+lättblödande	HEALTH
 intrabronkiell	0
 tumör	HEALTH
 .	0
@@ -174005,7 +174005,7 @@ att	0
 behandla	0
 hypertoniker	0
 med	0
-ACE-hämmare	0
+ACE-hämmare	HEALTH
 ses	0
 en	0
 reduktion	0
@@ -174111,7 +174111,7 @@ illamående	HEALTH
 
 Av	0
 diffusa	0
-symtom	0
+symtom	HEALTH
 förväntas	0
 vi	0
 skapa	0
@@ -174148,9 +174148,9 @@ hjärtinfarkt	HEALTH
 och	0
 remitterat	0
 honom	0
-akut	0
+akut	HEALTH
 till	0
-sjukhus	0
+sjukhus	HEALTH
 för	0
 provtagning	0
 ,	0
@@ -174196,7 +174196,7 @@ risk	0
 för	0
 att	0
 utveckla	0
-syndromet	0
+syndromet	HEALTH
 ,	0
 kvarstod	0
 sambandet	0
@@ -174245,7 +174245,7 @@ tillgång	0
 till	0
 utredning	0
 och	0
-behandling	0
+behandling	HEALTH
 för	0
 sin	0
 sjukdom	HEALTH
@@ -174321,7 +174321,7 @@ av	0
 underläkaren	0
 antagna	0
 diagnoserna	0
-blindtarmsinflammation	0
+blindtarmsinflammation	HEALTH
 och	0
 körtelbuk	0
 ,	0
@@ -174383,7 +174383,7 @@ gjort	0
 detta	0
 ?	0
 Kronisk	HEALTH
-hypertoni	0
+hypertoni	HEALTH
 ,	0
 njursjukdom	HEALTH
 ,	0
@@ -174458,7 +174458,7 @@ takykardi	0
 svimning	HEALTH
 och	0
 plötslig	0
-död	0
+död	HEALTH
 .	0
 
 Kvinnan	0
@@ -174561,7 +174561,7 @@ sjukdom	HEALTH
 ,	0
 inkluderar	0
 kardiovaskulär	0
-död	0
+död	HEALTH
 ,	0
 icke-letal	0
 hjärtinfarkt	HEALTH
@@ -174633,7 +174633,7 @@ koloniserade	0
 eller	0
 infekterade	0
 med	0
-multiresistenta	0
+multiresistenta	HEALTH
 Acinetobacter	0
 medför	0
 risk	0
@@ -175511,7 +175511,7 @@ med	0
 leukemi	HEALTH
 ,	0
 vars	0
-diagnos	0
+diagnos	HEALTH
 missades	0
 på	0
 en	0
@@ -175716,7 +175716,7 @@ sjukdomen	HEALTH
 Att	0
 missa	0
 en	0
-dödlig	0
+dödlig	HEALTH
 sjukdom	HEALTH
 på	0
 detta	0
@@ -175928,13 +175928,13 @@ hjärtsvikt	HEALTH
 eller	0
 behöver	0
 förlängd	0
-behandling	0
+behandling	HEALTH
 i	0
 res-pirator	0
 .	0
 
 En	0
-psykiskt	0
+psykiskt	HEALTH
 sjuk	HEALTH
 man	0
 drog	0
@@ -176081,7 +176081,7 @@ mellan	0
 människor	0
 hotar	0
 en	0
-dödlig	0
+dödlig	HEALTH
 pandemi	0
 .	0
 
@@ -176094,7 +176094,7 @@ och	0
 kan	0
 ge	0
 färre	0
-missfall	0
+missfall	HEALTH
 .	0
 
 –	0
@@ -176830,7 +176830,7 @@ förlossningar	0
 ,	0
 och	0
 även	0
-allvarliga	0
+allvarliga	HEALTH
 bristningar	HEALTH
 .	0
 
@@ -176937,8 +176937,8 @@ dåden	0
 led	0
 av	0
 en	0
-allvarlig	0
-psykisk	0
+allvarlig	HEALTH
+psykisk	HEALTH
 störning	HEALTH
 .	0
 
@@ -177167,7 +177167,7 @@ jag	0
 blev	0
 sjuk	HEALTH
 och	0
-sängliggande	0
+sängliggande	HEALTH
 i	0
 flera	0
 dagar	0
@@ -177355,7 +177355,7 @@ man	0
 dem	0
 som	0
 en	0
-lättblödande	0
+lättblödande	HEALTH
 polypös	0
 tumör	HEALTH
 ,	0
@@ -177381,14 +177381,14 @@ unga	0
 män	0
 med	0
 X-kromosombunden	0
-kronisk	0
+kronisk	HEALTH
 granulomatös	0
 sjukdom	HEALTH
 (	0
 X-CGD	0
 )	0
 med	0
-livshotande	0
+livshotande	HEALTH
 infektioner	HEALTH
 som	0
 behandlats	0
@@ -177417,7 +177417,7 @@ till	0
 ,	0
 kön	0
 och	0
-samsjuklighet	0
+samsjuklighet	HEALTH
 .	0
 
 Flickan	0
@@ -177439,7 +177439,7 @@ kort	0
 tids	0
 vistelse	0
 på	0
-sjukhus	0
+sjukhus	HEALTH
 efter	0
 normal	0
 graviditet	HEALTH
@@ -177472,7 +177472,7 @@ energidrycker	0
 
 Britt	PER
 Andersson	PER
-Symtomen	0
+Symtomen	HEALTH
 är	0
 diarré	HEALTH
 ,	0
@@ -177495,7 +177495,7 @@ och	0
 ungdomar	0
 och	0
 därmed	0
-ohälsa	0
+ohälsa	HEALTH
 hos	0
 vuxna	0
 .	0
@@ -177608,7 +177608,7 @@ obesvarad	0
 fråga	0
 .	0
 
-Kolorektal	0
+Kolorektal	HEALTH
 cancer	HEALTH
 (	0
 CRC	ORG
@@ -178084,7 +178084,7 @@ också	0
 vanligare	0
 vid	0
 faciliterande	0
-behandling	0
+behandling	HEALTH
 ,	0
 7	0
 procent	0
@@ -178180,19 +178180,19 @@ Högre	0
 prioritet	0
 har	0
 endast	0
-medicinsk	0
+medicinsk	HEALTH
 bedömning	0
 av	0
-akut	0
+akut	HEALTH
 sjukdom	HEALTH
 ,	0
 nytillkomna	0
-symtom	0
+symtom	HEALTH
 och	0
-akut	0
+akut	HEALTH
 försämring	0
 av	0
-kronisk	0
+kronisk	HEALTH
 sjukdom	HEALTH
 [	0
 4	0
@@ -178259,7 +178259,7 @@ Mediantiden	0
 från	0
 symtomdebut	0
 till	0
-diagnos	0
+diagnos	HEALTH
 vid	0
 denna	0
 sjukdom	HEALTH
@@ -178285,7 +178285,7 @@ att	0
 Beethovens	0
 olika	0
 fysiska	0
-symtom	0
+symtom	HEALTH
 kan	0
 förklaras	0
 med	0
@@ -178293,7 +178293,7 @@ en	0
 immunopati	0
 associerad	0
 med	0
-inflammatorisk	0
+inflammatorisk	HEALTH
 tarmsjukdom	HEALTH
 (	0
 IBD	0
@@ -178413,7 +178413,7 @@ men	0
 god	0
 kontroll	0
 av	0
-blodtrycket	0
+blodtrycket	HEALTH
 i	0
 medelåldern	0
 och	0
@@ -178578,7 +178578,7 @@ vid	0
 hjärtsvikt	HEALTH
 .	0
 
-Sarkoidos	0
+Sarkoidos	HEALTH
 är	0
 en	0
 granulomatös	0
@@ -178617,7 +178617,7 @@ Diabetes	HEALTH
 1	0
 ]	0
 om	0
-behandling	0
+behandling	HEALTH
 med	0
 PPARa-agonisten	0
 fenofibrat	0
@@ -178637,7 +178637,7 @@ Events	0
 2	0
 ]	0
 om	0
-behandling	0
+behandling	HEALTH
 med	0
 PPARgamma-agonisten	0
 pioglitazon	0
@@ -178645,7 +178645,7 @@ pioglitazon	0
 
 Incidens	0
 av	0
-kolorektal	0
+kolorektal	HEALTH
 cancer	HEALTH
 hos	0
 män	0
@@ -178680,7 +178680,7 @@ vårdtiden	0
 innan	0
 infektion	HEALTH
 med	0
-multiresistenta	0
+multiresistenta	HEALTH
 Acinetobacter	0
 konstaterades	0
 .	0
@@ -178745,7 +178745,7 @@ hjärtinfarkt	HEALTH
 ,	0
 stroke	HEALTH
 eller	0
-död	0
+död	HEALTH
 av	0
 kardiovaskulära	0
 orsaker	0
@@ -178851,7 +178851,7 @@ ge	0
 risk	0
 för	0
 plötslig	0
-död	0
+död	HEALTH
 [	0
 12	0
 ]	0
@@ -178887,7 +178887,7 @@ många	0
 av	0
 dessa	0
 patienters	0
-symtom	0
+symtom	HEALTH
 misstolkas	0
 som	0
 astma	HEALTH
@@ -178897,7 +178897,7 @@ många	0
 ,	0
 innan	0
 rätt	0
-diagnos	0
+diagnos	HEALTH
 ställs	0
 .	0
 
@@ -178979,7 +178979,7 @@ svårighetsgrad	0
 Positiv	0
 saltbalans	0
 ger	0
-vätskeretention	0
+vätskeretention	HEALTH
 och	0
 ökande	0
 blodtryck	HEALTH
@@ -179044,7 +179044,7 @@ lungor	HEALTH
 genom	0
 ekokardiografi	0
 ,	0
-datortomografi	0
+datortomografi	HEALTH
 och	0
 magnetkamera	0
 .	0
@@ -179151,7 +179151,7 @@ därmed	0
 konfirmerad	0
 ,	0
 och	0
-behandling	0
+behandling	HEALTH
 med	0
 kontinuerlig	0
 dialys	0
@@ -179207,7 +179207,7 @@ kvinnor	0
 företrädesvis	0
 strax	0
 före	0
-menopaus	0
+menopaus	HEALTH
 .	0
 
 Tillståndet	0
@@ -179261,7 +179261,7 @@ inte	0
 påverkar	0
 förekomsten	0
 av	0
-död	0
+död	HEALTH
 ,	0
 hjärtinfarkt	HEALTH
 eller	0
@@ -179271,7 +179271,7 @@ de	0
 första	0
 fyra	0
 månadernas	0
-behandling	0
+behandling	HEALTH
 .	0
 
 I	0
@@ -179416,7 +179416,7 @@ kramper	HEALTH
 Det	0
 bör	0
 finnas	0
-medicinsk	0
+medicinsk	HEALTH
 personal	0
 som	0
 är	0
@@ -179430,10 +179430,10 @@ om	0
 barn	0
 vars	0
 föräldrar	0
-diagnostiseras	0
+diagnostiseras	HEALTH
 med	0
 en	0
-livshotande	0
+livshotande	HEALTH
 sjukdom	HEALTH
 ,	0
 som	0
@@ -179456,9 +179456,9 @@ till	0
 stroke	HEALTH
 ,	0
 tidig	0
-död	0
+död	HEALTH
 och	0
-obstruktiv	0
+obstruktiv	HEALTH
 sömnapné	HEALTH
 .	0
 
@@ -179477,7 +179477,7 @@ centrala	0
 vid	0
 undersökning	0
 och	0
-diagnostik	0
+diagnostik	HEALTH
 ,	0
 i	0
 synnerhet	0
@@ -179653,7 +179653,7 @@ konstaterats	0
 på	0
 Södra	LOC
 Älvsborgs	0
-sjukhus	0
+sjukhus	HEALTH
 ,	0
 skriver	0
 Västra	0
