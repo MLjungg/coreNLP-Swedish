@@ -14,4 +14,4 @@ Regarding Tokenization (tok) and wordToSentence (ssplit), it is suitable to use 
 
 ----------------------------------------------
 
-In the folder src you will find code were the annotators above are imported to coreNLP and used to form a custom annotators.
+In the folder src you will find code were the annotators above are imported to coreNLP and used to form a custom annotator.
