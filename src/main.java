@@ -1,17 +1,19 @@
+import java.io.IOException;
+
 class main {
 
     public static void main(String[] args) {
 
-        boolean run_eng = false;
-        boolean run_sv = true;
+        boolean runEngPipeline = false;
+        boolean runSwePipeline = true;
 
-        if (run_eng) {
+        if (runEngPipeline) {
             String eng_text = "Bell, based in Los Angeles, makes and distributes electronic, computer and building products.";
             EnglishPipeLine.main(eng_text);
         }
         System.out.println("------------");
-        if (run_sv) {
-            String swe_text = "Erik och Mikael är sjuka i COVID. Det är tråkigt.";
+        if (runSwePipeline) {
+            String swe_text = "Det är dåligt att vara kund på Handelsbanken";
             String gdpr_text = SwedishPipeLine.main(swe_text);
             System.out.println(gdpr_text);
         }

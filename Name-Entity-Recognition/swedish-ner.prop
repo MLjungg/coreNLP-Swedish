@@ -25,5 +25,5 @@ useObservedSequencesOnly=true
 useQN = true
 QNsize = 25
 useGazettes = true
-gazette = /Users/mikael/Documents/Programmeringsprojekt/gazetteer/data/Words/tagged_words_health.txt
+gazette = /Users/mikael/Documents/Programmeringsprojekt/gazetteer/data/words/tagged/tagged_words_health.txt
 featureDiffThresh=0.05

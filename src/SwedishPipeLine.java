@@ -1,5 +1,7 @@
 import customAnnotators.GDPR.GdprAnnotation;
 import customAnnotators.GDPR.GdprToken;
+import customAnnotators.sentiment.SentimentAnnotation;
+import customAnnotators.sentiment.SentimentToken;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
@@ -17,13 +19,17 @@ class SwedishPipeLine {
 
         // creates a StanfordCoreNLP object, with POS tagging, lemmatization, NER, parsing, and coreference resolution
         StanfordCoreNLP pipeline = new StanfordCoreNLP(PropertiesUtils.asProperties(
-                "annotators", "tokenize, ssplit, pos, lemma, ner, GdprAnnotator, depparse",
+                "annotators", "tokenize, ssplit, tokenize, ssplit, pos, customLemmaAnnotator, ner, depparse, GdprAnnotator, SentimentAnnotator",
                 "pos.model", "/Users/mikael/stanford-corenlp-4.0.0/Stanford-POS/swedish-pos-tagger-model",
-                "ner.model", "/Users/mikael/stanford-corenlp-4.0.0/stanford-ner-4.0.0/se-ner-model.ser",
+                "ner.model", "/Users/mikael/Documents/Programmeringsprojekt/coreNLP-Swedish/Name-Entity-Recognition/classifiers/health_politics_model.ser.gz,/Users/mikael/Documents/Programmeringsprojekt/coreNLP-Swedish/Name-Entity-Recognition/classifiers/pers_loc_org.ser",
+                "ner.combinationMode", "HIGH_RECALL",
+                "ner.useSUTime", "false",
+                "ner.applyFineGrained", "false",
                 "customAnnotatorClass.customLemmaAnnotator","customAnnotators.CustomLemmaAnnotator",
                 "custom.lemma.lemmaFile", "/Users/Mikael/stanford-corenlp-4.0.0/lemma/lemmaFile.txt",
                 "depparse.model", "/Users/Mikael/stanford-corenlp-4.0.0/Stanford-dependency-parser/swedish.nndep.model.txt.gz",
                 "customAnnotatorClass.GdprAnnotator", "customAnnotators.GDPR.GdprAnnotator",
+                "customAnnotatorClass.SentimentAnnotator", "customAnnotators.sentiment.SentimentAnnotator",
                 "tokenize.language", "en"));
 
         // create an empty Annotation just with the given text
@@ -41,9 +47,13 @@ class SwedishPipeLine {
                 String pos = token.get(CoreAnnotations.PartOfSpeechAnnotation.class);
                 String ne = token.get(CoreAnnotations.NamedEntityTagAnnotation.class);
                 String lemma = token.get(CoreAnnotations.LemmaAnnotation.class);
+                System.out.println(word + "\t" + ne + "\t" + pos + "\t" + lemma + "\n");
+
             }
             // Information that can be extracted from a sentece
             SemanticGraph dependencies = sentence.get(SemanticGraphCoreAnnotations.CollapsedCCProcessedDependenciesAnnotation.class);
+            System.out.println(dependencies);
+
         }
         // Information that can be extraced from the text as a whole
         GdprToken gdprToken = document.get(GdprAnnotation.class);

@@ -47753,6 +47753,7 @@ till	till
 uttryck	uttryck
 i	i
 gillande	gillande
+gillar	gilla	
 av	av
 vissa	viss
 beteenden	beteende

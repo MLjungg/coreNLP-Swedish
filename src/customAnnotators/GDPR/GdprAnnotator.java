@@ -2,7 +2,6 @@ package customAnnotators.GDPR;
 
 import edu.stanford.nlp.ling.CoreAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations;
-import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.*;
 import edu.stanford.nlp.util.ArraySet;
 import edu.stanford.nlp.util.CoreMap;
@@ -15,14 +14,14 @@ public class GdprAnnotator implements Annotator {
     }
 
     @Override
+    // This annotator will annotate a document as GDPR sensitive if it contains a verb, a PERS entity and a POLITICS
+    // entity. Given that the text is GDPR senstive it will store the PERS token and the POLITICS token in a list, which later
+    // will be anonymized.
     public void annotate(Annotation annotation) {
         List<CoreMap> sentences = annotation.get(CoreAnnotations.SentencesAnnotation.class);
         GdprToken gdprToken = new GdprToken();
 
-        for (CoreMap sentence : sentences) {
-            List<CoreLabel> word_tokens = sentence.get(CoreAnnotations.TokensAnnotation.class);
-            gdprToken.verifyGdprCompliance(word_tokens);
-        }
+        gdprToken.verifyGdprCompliance(sentences);
 
         annotation.set(GdprAnnotation.class, gdprToken);
 
@@ -30,7 +29,7 @@ public class GdprAnnotator implements Annotator {
 
     @Override
     public Set<Class<? extends CoreAnnotation>> requirementsSatisfied() {
-        return Collections.singleton(CoreAnnotations.SentencesAnnotation.class);
+        return Collections.singleton(GdprAnnotation.class);
     }
 
     @Override
